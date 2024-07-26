@@ -1,0 +1,10 @@
+[
+    {
+      "clientId": "c59dbf4d-cef2-4373-bcbe-6140e6f08a9e",
+      "consentType": "AllPrincipals",
+      "id": "Tb-dxfLOc0O8vmFA5vCKnmik1TEuhaFKjhxpp_mqtqM",
+      "principalId": null,
+      "resourceId": "31d5a468-852e-4aa1-8e1c-69a7f9aab6a3",
+      "scope": " openid profile email Calendars.Read Mail.Read Mail.Send Tasks.ReadWrite User.Read offline_access"
+    }
+]

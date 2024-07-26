@@ -1,0 +1,27 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#servicePrincipals('c59dbf4d-cef2-4373-bcbe-6140e6f08a9e')/appRoleAssignedTo",
+    "value": [
+      {
+        "appRoleId": "00000000-0000-0000-0000-000000000000",
+        "createdDateTime": "2024-04-24T19:36:57.2118518Z",
+        "deletedDateTime": null,
+        "id": "AvThoBtwBkizSo6ONGx8MnPk_WGC0R1HtzvuHWaaTQo",
+        "principalDisplayName": "Brig Lamoreaux",
+        "principalId": "a0e1f402-701b-4806-b34a-8e8e346c7c32",
+        "principalType": "User",
+        "resourceDisplayName": "chat_copilot_web",
+        "resourceId": "c59dbf4d-cef2-4373-bcbe-6140e6f08a9e"
+      },
+      {
+        "appRoleId": "00000000-0000-0000-0000-000000000000",
+        "createdDateTime": "2024-04-24T18:30:08.5374032Z",
+        "deletedDateTime": null,
+        "id": "O9PIhvVWDUCQ1aYnBcnzf3JfaJZF8dZJr4c4LkEMjUI",
+        "principalDisplayName": "Brig Lamoreaux",
+        "principalId": "86c8d33b-56f5-400d-90d5-a62705c9f37f",
+        "principalType": "User",
+        "resourceDisplayName": "chat_copilot_web",
+        "resourceId": "c59dbf4d-cef2-4373-bcbe-6140e6f08a9e"
+      }
+    ]
+}

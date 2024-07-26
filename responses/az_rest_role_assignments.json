@@ -1,0 +1,41 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#roleManagement/directory/roleAssignments",
+    "value": [
+      {
+        "directoryScopeId": "/",
+        "id": "lAPpYvVpN0KRkAEhdxReEAL04aAbcAZIs0qOjjRsfDI-1",
+        "principalId": "a0e1f402-701b-4806-b34a-8e8e346c7c32",
+        "roleDefinitionId": "62e90394-69f5-4237-9190-012177145e10"
+      },
+      {
+        "directoryScopeId": "/",
+        "id": "5TgczyE2BECny4eWJNztfMCum-0H_k9FrNJf6Jrumrg-1",
+        "principalId": "ed9baec0-fe07-454f-acd2-5fe89aee9ab8",
+        "roleDefinitionId": "cf1c38e5-3621-4004-a7cb-879624dced7c"
+      },
+      {
+        "directoryScopeId": "/",
+        "id": "4-PYiFWPHkqVOpuYmLiHa9nXAiAjYLBEvSKhqu6akPE-1",
+        "principalId": "2002d7d9-6023-44b0-bd22-a1aaee9a90f1",
+        "roleDefinitionId": "88d8e3e3-8f55-4a1e-953a-9b9898b8876b"
+      },
+      {
+        "directoryScopeId": "/",
+        "id": "4-PYiFWPHkqVOpuYmLiHayoEAWsTabNJvabuUPQM-yg-1",
+        "principalId": "6b01042a-6913-49b3-bda6-ee50f40cfb28",
+        "roleDefinitionId": "88d8e3e3-8f55-4a1e-953a-9b9898b8876b"
+      },
+      {
+        "directoryScopeId": "/",
+        "id": "4-PYiFWPHkqVOpuYmLiHa9gyE2xheMBMlMZth7mJ6o0-1",
+        "principalId": "6c1332d8-7861-4cc0-94c6-6d87b989ea8d",
+        "roleDefinitionId": "88d8e3e3-8f55-4a1e-953a-9b9898b8876b"
+      },
+      {
+        "directoryScopeId": "/",
+        "id": "4-PYiFWPHkqVOpuYmLiHa4XC67ituiVLrT0eMYakcjI-1",
+        "principalId": "b8ebc285-baad-4b25-ad3d-1e3186a47232",
+        "roleDefinitionId": "88d8e3e3-8f55-4a1e-953a-9b9898b8876b"
+      }
+    ]
+}

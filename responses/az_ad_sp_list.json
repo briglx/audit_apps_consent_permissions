@@ -1,0 +1,56 @@
+[
+    {
+      "accountEnabled": true,
+      "addIns": [],
+      "alternativeNames": [],
+      "appDescription": null,
+      "appDisplayName": "chat_copilot_web",
+      "appId": "9fa5b7bf-6515-4b56-934f-6523465fea1c",
+      "appOwnerOrganizationId": "98f3e5a8-1add-4955-a7ed-16b948862dbb",
+      "appRoleAssignmentRequired": false,
+      "appRoles": [],
+      "applicationTemplateId": null,
+      "createdDateTime": "2024-04-24T17:28:32Z",
+      "deletedDateTime": null,
+      "description": null,
+      "disabledByMicrosoftStatus": null,
+      "displayName": "chat_copilot_web",
+      "homepage": null,
+      "id": "c59dbf4d-cef2-4373-bcbe-6140e6f08a9e",
+      "info": {
+        "logoUrl": null,
+        "marketingUrl": null,
+        "privacyStatementUrl": null,
+        "supportUrl": null,
+        "termsOfServiceUrl": null
+      },
+      "keyCredentials": [],
+      "loginUrl": null,
+      "logoutUrl": null,
+      "notes": null,
+      "notificationEmailAddresses": [],
+      "oauth2PermissionScopes": [],
+      "passwordCredentials": [],
+      "preferredSingleSignOnMode": null,
+      "preferredTokenSigningKeyThumbprint": null,
+      "replyUrls": [
+        "https://app-copichat-6kykklrktrq44-webapi.azurewebsites.net/",
+        "http://localhost:3000/"
+      ],
+      "resourceSpecificApplicationPermissions": [],
+      "samlSingleSignOnSettings": null,
+      "servicePrincipalNames": [
+        "9fa5b7bf-6515-4b56-934f-6523465fea1c"
+      ],
+      "servicePrincipalType": "Application",
+      "signInAudience": "AzureADMyOrg",
+      "tags": [],
+      "tokenEncryptionKeyId": null,
+      "verifiedPublisher": {
+        "addedDateTime": null,
+        "displayName": null,
+        "verifiedPublisherId": null
+      }
+    }
+  ]
+  

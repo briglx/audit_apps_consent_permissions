@@ -1,0 +1,2627 @@
+[
+  {
+    "Id": "ebfcd32b-babb-40f4-a14b-42706e83bd28",
+    "UserConsentDisplayName": "Read access reviews that you can access",
+    "Value": "AccessReview.Read.All"
+  },
+  {
+    "Id": "e4aa47b9-9a69-4109-82ed-36ec70d85ff1",
+    "UserConsentDisplayName": "Manage access reviews that you can access",
+    "Value": "AccessReview.ReadWrite.All"
+  },
+  {
+    "Id": "5af8c3f5-baca-439a-97b0-ea58a435e269",
+    "UserConsentDisplayName": "Manage access reviews for group and app memberships",
+    "Value": "AccessReview.ReadWrite.Membership"
+  },
+  {
+    "Id": "9084c10f-a2d6-4713-8732-348def50fe02",
+    "UserConsentDisplayName": "Read all acronyms that you have access to",
+    "Value": "Acronym.Read.All"
+  },
+  {
+    "Id": "3361d15d-be43-4de6-b441-3c746d05163d",
+    "UserConsentDisplayName": "Read administrative units",
+    "Value": "AdministrativeUnit.Read.All"
+  },
+  {
+    "Id": "7b8a2d34-6b3f-4542-a343-54651608ad81",
+    "UserConsentDisplayName": "Read and write administrative units",
+    "Value": "AdministrativeUnit.ReadWrite.All"
+  },
+  {
+    "Id": "af2819c9-df71-4dd3-ade7-4d7c9dc653b7",
+    "UserConsentDisplayName": "Read all terms of use agreements",
+    "Value": "Agreement.Read.All"
+  },
+  {
+    "Id": "ef4b5d93-3104-4664-9053-a5c49ab44218",
+    "UserConsentDisplayName": "Read and write all terms of use agreements",
+    "Value": "Agreement.ReadWrite.All"
+  },
+  {
+    "Id": "0b7643bb-5336-476f-80b5-18fbfbc91806",
+    "UserConsentDisplayName": "Read your terms of use acceptance statuses",
+    "Value": "AgreementAcceptance.Read"
+  },
+  {
+    "Id": "a66a5341-e66e-4897-9d52-c2df58c2bfb9",
+    "UserConsentDisplayName": "Read all terms of use acceptance statuses",
+    "Value": "AgreementAcceptance.Read.All"
+  },
+  {
+    "Id": "e03cf23f-8056-446a-8994-7d93dfc8b50e",
+    "UserConsentDisplayName": "Read your activity statistics",
+    "Value": "Analytics.Read"
+  },
+  {
+    "Id": "1b6ff35f-31df-4332-8571-d31ea5a4893f",
+    "UserConsentDisplayName": "Read API connectors for authentication flows",
+    "Value": "APIConnectors.Read.All"
+  },
+  {
+    "Id": "c67b52c5-7c69-48b6-9d48-7b3af3ded914",
+    "UserConsentDisplayName": "Read and write API connectors for authentication flows",
+    "Value": "APIConnectors.ReadWrite.All"
+  },
+  {
+    "Id": "88e58d74-d3df-44f3-ad47-e89edf4472e4",
+    "UserConsentDisplayName": "Read all app catalogs",
+    "Value": "AppCatalog.Read.All"
+  },
+  {
+    "Id": "1ca167d5-1655-44a1-8adf-1414072e1ef9",
+    "UserConsentDisplayName": "Read and write to all app catalogs",
+    "Value": "AppCatalog.ReadWrite.All"
+  },
+  {
+    "Id": "3db89e36-7fa6-4012-b281-85f3d9d9fd2e",
+    "UserConsentDisplayName": "Submit application packages to your organization's catalog and cancel pending submissions",
+    "Value": "AppCatalog.Submit"
+  },
+  {
+    "Id": "af281d3a-030d-4122-886e-146fb30a0413",
+    "UserConsentDisplayName": "Read the trusted certificate authority configuration for applications",
+    "Value": "AppCertTrustConfiguration.Read.All"
+  },
+  {
+    "Id": "4bae2ed4-473e-4841-a493-9829cfd51d48",
+    "UserConsentDisplayName": "Read and write the trusted certificate authority configuration for applications",
+    "Value": "AppCertTrustConfiguration.ReadWrite.All"
+  },
+  {
+    "Id": "ffa91d43-2ad8-45cc-b592-09caddeb24bb",
+    "UserConsentDisplayName": "Read and write the remote desktop security configuration for apps",
+    "Value": "Application-RemoteDesktopConfig.ReadWrite.All"
+  },
+  {
+    "Id": "c79f8feb-a9db-4090-85f9-90d820caa0eb",
+    "UserConsentDisplayName": "Read applications",
+    "Value": "Application.Read.All"
+  },
+  {
+    "Id": "bdfbf15f-ee85-4955-8675-146e8e5296b5",
+    "UserConsentDisplayName": "Read and write applications",
+    "Value": "Application.ReadWrite.All"
+  },
+  {
+    "Id": "84bccea3-f856-4a8a-967b-dbe0a3d53a64",
+    "UserConsentDisplayName": "Manage app permission grants and app role assignments",
+    "Value": "AppRoleAssignment.ReadWrite.All"
+  },
+  {
+    "Id": "104a7a4b-ca76-4677-b7e7-2f4bc482f381",
+    "UserConsentDisplayName": "Read attack simulation data of an organization",
+    "Value": "AttackSimulation.Read.All"
+  },
+  {
+    "Id": "27608d7c-2c66-4cad-a657-951d575f5a60",
+    "UserConsentDisplayName": "Read, create, and update attack simulation data of an organization",
+    "Value": "AttackSimulation.ReadWrite.All"
+  },
+  {
+    "Id": "e4c9e354-4dc5-45b8-9e7c-e1393b0b1a20",
+    "UserConsentDisplayName": "Read audit log data",
+    "Value": "AuditLog.Read.All"
+  },
+  {
+    "Id": "ba78b16f-1e01-41b6-89ca-73e0a32b304c",
+    "UserConsentDisplayName": "Read audit logs data from CRM workload",
+    "Value": "AuditLogsQuery-CRM.Read.All"
+  },
+  {
+    "Id": "ee3409fe-617f-43cf-bd1e-fc8b38049e69",
+    "UserConsentDisplayName": "Read audit logs data from Endpoint workload",
+    "Value": "AuditLogsQuery-Endpoint.Read.All"
+  },
+  {
+    "Id": "5ff2f415-e0f1-4d11-bfd0-6d87c0f667fd",
+    "UserConsentDisplayName": "Read audit logs data from directory (Azure AD) workload",
+    "Value": "AuditLogsQuery-Entra.Read.All"
+  },
+  {
+    "Id": "6c8c71d2-c7e1-45b0-ac6d-1d2724fba6ae",
+    "UserConsentDisplayName": "Read audit logs data from Exchange workload",
+    "Value": "AuditLogsQuery-Exchange.Read.All"
+  },
+  {
+    "Id": "4a72c235-a50d-4870-b598-fd88fd1fa074",
+    "UserConsentDisplayName": "Read audit logs data from OneDrive workload",
+    "Value": "AuditLogsQuery-OneDrive.Read.All"
+  },
+  {
+    "Id": "30630b65-ed12-4a81-9130-e3a964109fae",
+    "UserConsentDisplayName": "Read audit logs data from SharePoint workload",
+    "Value": "AuditLogsQuery-SharePoint.Read.All"
+  },
+  {
+    "Id": "1d9e7ac3-0eca-442c-82f9-e92625af6e6d",
+    "UserConsentDisplayName": "Read audit logs data from all services",
+    "Value": "AuditLogsQuery.Read.All"
+  },
+  {
+    "Id": "57b030f1-8c35-469c-b0d9-e4a077debe70",
+    "UserConsentDisplayName": "Read all authentication context information",
+    "Value": "AuthenticationContext.Read.All"
+  },
+  {
+    "Id": "ba6d575a-1344-4516-b777-1404f5593057",
+    "UserConsentDisplayName": "Read and write all authentication context information",
+    "Value": "AuthenticationContext.ReadWrite.All"
+  },
+  {
+    "Id": "444ed4b6-0554-4dc6-8e9c-3f9a34ee3ff6",
+    "UserConsentDisplayName": "Read backup configuration policies",
+    "Value": "BackupRestore-Configuration.Read.All"
+  },
+  {
+    "Id": "a0244d16-171c-4496-8ffb-7b9b6954d339",
+    "UserConsentDisplayName": "Read and edit backup configuration policies",
+    "Value": "BackupRestore-Configuration.ReadWrite.All"
+  },
+  {
+    "Id": "b4e98de1-4600-4e90-b5e1-7c1dfef04e5c",
+    "UserConsentDisplayName": "Read monitoring, quota and billing information for the tenant",
+    "Value": "BackupRestore-Monitor.Read.All"
+  },
+  {
+    "Id": "94b36f78-434f-4904-8c08-421d9a9c1dc2",
+    "UserConsentDisplayName": "Read restore sessions",
+    "Value": "BackupRestore-Restore.Read.All"
+  },
+  {
+    "Id": "9f89e109-94b9-4c9b-b4fc-98cdaa54f574",
+    "UserConsentDisplayName": "Read restore sessions and start restore sessions from backups",
+    "Value": "BackupRestore-Restore.ReadWrite.All"
+  },
+  {
+    "Id": "2b24830f-f435-446f-ab5a-b1e70d9a2eb5",
+    "UserConsentDisplayName": "Search for metadata properties in backup snapshots",
+    "Value": "BackupRestore-Search.Read.All"
+  },
+  {
+    "Id": "2bf6d319-dfca-4c22-9879-f88dcfaee6be",
+    "UserConsentDisplayName": "Read and write application billing configuration",
+    "Value": "BillingConfiguration.ReadWrite.All"
+  },
+  {
+    "Id": "b27a61ec-b99c-4d6a-b126-c4375d08ae30",
+    "UserConsentDisplayName": "Read your BitLocker keys",
+    "Value": "BitlockerKey.Read.All"
+  },
+  {
+    "Id": "5a107bfc-4f00-4e1a-b67e-66451267bc68",
+    "UserConsentDisplayName": "Read your BitLocker keys basic information",
+    "Value": "BitlockerKey.ReadBasic.All"
+  },
+  {
+    "Id": "7f36b48e-542f-4d3b-9bcb-8406f0ab9fdb",
+    "UserConsentDisplayName": "Manage bookings information",
+    "Value": "Bookings.Manage.All"
+  },
+  {
+    "Id": "33b1df99-4b29-4548-9339-7a7b83eaeebc",
+    "UserConsentDisplayName": "Read bookings information",
+    "Value": "Bookings.Read.All"
+  },
+  {
+    "Id": "948eb538-f19d-4ec5-9ccc-f059e1ea4c72",
+    "UserConsentDisplayName": "Read and write bookings information",
+    "Value": "Bookings.ReadWrite.All"
+  },
+  {
+    "Id": "02a5a114-36a6-46ff-a102-954d89d9ab02",
+    "UserConsentDisplayName": "Read and write booking appointments",
+    "Value": "BookingsAppointment.ReadWrite.All"
+  },
+  {
+    "Id": "98b17b35-f3b1-4849-a85f-9f13733002f0",
+    "UserConsentDisplayName": "Read all bookmarks that you have access to",
+    "Value": "Bookmark.Read.All"
+  },
+  {
+    "Id": "fb9be2b7-a7fc-4182-aec1-eda4597c43d5",
+    "UserConsentDisplayName": "Read browser site lists for your organization",
+    "Value": "BrowserSiteLists.Read.All"
+  },
+  {
+    "Id": "83b34c85-95bf-497b-a04e-b58eca9d49d0",
+    "UserConsentDisplayName": "Read and write browser site lists for your organization",
+    "Value": "BrowserSiteLists.ReadWrite.All"
+  },
+  {
+    "Id": "d16480b2-e469-4118-846b-d3d177327bee",
+    "UserConsentDisplayName": "Read business scenario configurations",
+    "Value": "BusinessScenarioConfig.Read.All"
+  },
+  {
+    "Id": "c47e7b6e-d6f1-4be9-9ffd-1e00f3e32892",
+    "UserConsentDisplayName": "Read business scenario configurations this app creates or owns",
+    "Value": "BusinessScenarioConfig.Read.OwnedBy"
+  },
+  {
+    "Id": "755e785b-b658-446f-bb22-5a46abd029ea",
+    "UserConsentDisplayName": "Read and write business scenario configurations",
+    "Value": "BusinessScenarioConfig.ReadWrite.All"
+  },
+  {
+    "Id": "b3b7fcff-b4d4-4230-bf6f-90bd91285395",
+    "UserConsentDisplayName": "Read and write business scenario configurations this app creates or owns",
+    "Value": "BusinessScenarioConfig.ReadWrite.OwnedBy"
+  },
+  {
+    "Id": "25b265c4-5d34-4e44-952d-b567f6d3b96d",
+    "UserConsentDisplayName": "Read data for business scenarios this app creates or owns",
+    "Value": "BusinessScenarioData.Read.OwnedBy"
+  },
+  {
+    "Id": "19932d57-2952-4c60-8634-3655c79fc527",
+    "UserConsentDisplayName": "Read and write data for business scenarios this app creates or owns",
+    "Value": "BusinessScenarioData.ReadWrite.OwnedBy"
+  },
+  {
+    "Id": "465a38f9-76ea-45b9-9f34-9e8b0d4b0b42",
+    "UserConsentDisplayName": "Read your calendars ",
+    "Value": "Calendars.Read"
+  },
+  {
+    "Id": "2b9c4092-424d-4249-948d-b43879977640",
+    "UserConsentDisplayName": "Read calendars you can access",
+    "Value": "Calendars.Read.Shared"
+  },
+  {
+    "Id": "662d75ba-a364-42ad-adee-f5f880ea4878",
+    "UserConsentDisplayName": "Read basic details of your calendars",
+    "Value": "Calendars.ReadBasic"
+  },
+  {
+    "Id": "1ec239c2-d7c9-4623-a91a-a9775856bb36",
+    "UserConsentDisplayName": "Have full access to your calendars  ",
+    "Value": "Calendars.ReadWrite"
+  },
+  {
+    "Id": "12466101-c9b8-439a-8589-dd09ee67e8e9",
+    "UserConsentDisplayName": "Read and write to your and shared calendars",
+    "Value": "Calendars.ReadWrite.Shared"
+  },
+  {
+    "Id": "43431c03-960e-400f-87c6-8f910321dca3",
+    "UserConsentDisplayName": "Read call event data",
+    "Value": "CallEvents.Read"
+  },
+  {
+    "Id": "101147cf-4178-4455-9d58-02b5c164e759",
+    "UserConsentDisplayName": "Create channels",
+    "Value": "Channel.Create"
+  },
+  {
+    "Id": "cc83893a-e232-4723-b5af-bd0b01bcfe65",
+    "UserConsentDisplayName": "Delete channels",
+    "Value": "Channel.Delete.All"
+  },
+  {
+    "Id": "9d8982ae-4365-4f57-95e9-d6032a4c0b87",
+    "UserConsentDisplayName": "Read the names and descriptions of channels",
+    "Value": "Channel.ReadBasic.All"
+  },
+  {
+    "Id": "2eadaff8-0bce-4198-a6b9-2cfc35a30075",
+    "UserConsentDisplayName": "Read the members of teams and channels",
+    "Value": "ChannelMember.Read.All"
+  },
+  {
+    "Id": "0c3e411a-ce45-4cd1-8f30-f99a3efa7b11",
+    "UserConsentDisplayName": "Add and remove members from teams and channels",
+    "Value": "ChannelMember.ReadWrite.All"
+  },
+  {
+    "Id": "2b61aa8a-6d36-4b2f-ac7b-f29867937c53",
+    "UserConsentDisplayName": "Edit your channel messages",
+    "Value": "ChannelMessage.Edit"
+  },
+  {
+    "Id": "767156cb-16ae-4d10-8f8b-41b657c8c8c8",
+    "UserConsentDisplayName": "Read your channel messages",
+    "Value": "ChannelMessage.Read.All"
+  },
+  {
+    "Id": "5922d31f-46c8-4404-9eaf-2117e390a8a4",
+    "UserConsentDisplayName": "Read and write user channel messages",
+    "Value": "ChannelMessage.ReadWrite"
+  },
+  {
+    "Id": "ebf0f66e-9fb1-49e4-a278-222f76911cf4",
+    "UserConsentDisplayName": "Send channel messages",
+    "Value": "ChannelMessage.Send"
+  },
+  {
+    "Id": "233e0cf1-dd62-48bc-b65b-b38fe87fcf8e",
+    "UserConsentDisplayName": "Read the names, descriptions, and settings of channels",
+    "Value": "ChannelSettings.Read.All"
+  },
+  {
+    "Id": "d649fb7c-72b4-4eec-b2b4-b15acf79e378",
+    "UserConsentDisplayName": "Read and write the names, descriptions, and settings of channels",
+    "Value": "ChannelSettings.ReadWrite.All"
+  },
+  {
+    "Id": "38826093-1258-4dea-98f0-00003be2b8d0",
+    "UserConsentDisplayName": "Create chats",
+    "Value": "Chat.Create"
+  },
+  {
+    "Id": "bb64e6fc-6b6d-4752-aea0-dd922dbba588",
+    "UserConsentDisplayName": "Delete and recover deleted chats",
+    "Value": "Chat.ManageDeletion.All"
+  },
+  {
+    "Id": "f501c180-9344-439a-bca0-6cbf209fd270",
+    "UserConsentDisplayName": "Read your chat messages",
+    "Value": "Chat.Read"
+  },
+  {
+    "Id": "9547fcb5-d03f-419d-9948-5928bbf71b0f",
+    "UserConsentDisplayName": "Read names and members of your chat threads",
+    "Value": "Chat.ReadBasic"
+  },
+  {
+    "Id": "9ff7295e-131b-4d94-90e1-69fde507ac11",
+    "UserConsentDisplayName": "Read and write your chat messages",
+    "Value": "Chat.ReadWrite"
+  },
+  {
+    "Id": "7e9a077b-3711-42b9-b7cb-5fa5f3f7fea7",
+    "UserConsentDisplayName": "Read and write all chat messages",
+    "Value": "Chat.ReadWrite.All"
+  },
+  {
+    "Id": "c5a9e2b1-faf6-41d4-8875-d381aa549b24",
+    "UserConsentDisplayName": "Read the members of chats",
+    "Value": "ChatMember.Read"
+  },
+  {
+    "Id": "dea13482-7ea6-488f-8b98-eb5bbecf033d",
+    "UserConsentDisplayName": "Add and remove members from chats",
+    "Value": "ChatMember.ReadWrite"
+  },
+  {
+    "Id": "cdcdac3a-fd45-410d-83ef-554db620e5c7",
+    "UserConsentDisplayName": "Read user chat messages",
+    "Value": "ChatMessage.Read"
+  },
+  {
+    "Id": "116b7235-7cc6-461e-b163-8e55691d839e",
+    "UserConsentDisplayName": "Send chat messages",
+    "Value": "ChatMessage.Send"
+  },
+  {
+    "Id": "ad46d60e-1027-4b75-af88-7c14ccf43a19",
+    "UserConsentDisplayName": "Read discovered cloud application data",
+    "Value": "CloudApp-Discovery.Read.All"
+  },
+  {
+    "Id": "5252ec4e-fd40-4d92-8c68-89dd1d3c6110",
+    "UserConsentDisplayName": "Read Cloud PCs",
+    "Value": "CloudPC.Read.All"
+  },
+  {
+    "Id": "9d77138f-f0e2-47ba-ab33-cd246c8b79d1",
+    "UserConsentDisplayName": "Read and write Cloud PCs",
+    "Value": "CloudPC.ReadWrite.All"
+  },
+  {
+    "Id": "12ae2e92-14b5-47b2-babb-4e890bbedc0a",
+    "UserConsentDisplayName": "Read all Viva Engage communities",
+    "Value": "Community.Read.All"
+  },
+  {
+    "Id": "9e69467d-e0e2-402b-a926-3d796990197f",
+    "UserConsentDisplayName": "Read and write all Viva Engage communities",
+    "Value": "Community.ReadWrite.All"
+  },
+  {
+    "Id": "f2143d35-9b4b-480d-951c-d083e69eeb2c",
+    "UserConsentDisplayName": "Create consent requests",
+    "Value": "ConsentRequest.Create"
+  },
+  {
+    "Id": "5942b2f6-5a7b-40af-aa37-4b6ea5447506",
+    "UserConsentDisplayName": "Read your consent requests",
+    "Value": "ConsentRequest.Read"
+  },
+  {
+    "Id": "f3bfad56-966e-4590-a536-82ecf548ac1e",
+    "UserConsentDisplayName": "Read consent requests",
+    "Value": "ConsentRequest.Read.All"
+  },
+  {
+    "Id": "e694a3a1-7878-46d8-8c29-3d195f6589f4",
+    "UserConsentDisplayName": "Read and approve consent requests",
+    "Value": "ConsentRequest.ReadApprove.All"
+  },
+  {
+    "Id": "497d9dfa-3bd1-481a-baab-90895e54568c",
+    "UserConsentDisplayName": "Read and write consent requests",
+    "Value": "ConsentRequest.ReadWrite.All"
+  },
+  {
+    "Id": "ff74d97f-43af-4b68-9f2a-b77ee6968c5d",
+    "UserConsentDisplayName": "Read your contacts ",
+    "Value": "Contacts.Read"
+  },
+  {
+    "Id": "242b9d9e-ed24-4d09-9a52-f43769beb9d4",
+    "UserConsentDisplayName": "Read your and shared contacts",
+    "Value": "Contacts.Read.Shared"
+  },
+  {
+    "Id": "d56682ec-c09e-4743-aaf4-1a3aac4caa21",
+    "UserConsentDisplayName": "Have full access of your contacts ",
+    "Value": "Contacts.ReadWrite"
+  },
+  {
+    "Id": "afb6c84b-06be-49af-80bb-8f3f77004eab",
+    "UserConsentDisplayName": "Read and write to your and shared contacts",
+    "Value": "Contacts.ReadWrite.Shared"
+  },
+  {
+    "Id": "81594d25-e88e-49cf-ac8c-fecbff49f994",
+    "UserConsentDisplayName": "Read cross-tenant basic information",
+    "Value": "CrossTenantInformation.ReadBasic.All"
+  },
+  {
+    "Id": "cb1ba48f-d22b-4325-a07f-74135a62ee41",
+    "UserConsentDisplayName": "Read shared cross-tenant user profile and export data",
+    "Value": "CrossTenantUserProfileSharing.Read"
+  },
+  {
+    "Id": "759dcd16-3c90-463c-937e-abf89f991c18",
+    "UserConsentDisplayName": "Read any shared cross-tenant user profiles and export data",
+    "Value": "CrossTenantUserProfileSharing.Read.All"
+  },
+  {
+    "Id": "eed0129d-dc60-4f30-8641-daf337a39ffd",
+    "UserConsentDisplayName": "Read shared cross-tenant user profile and export or delete data",
+    "Value": "CrossTenantUserProfileSharing.ReadWrite"
+  },
+  {
+    "Id": "64dfa325-cbf8-48e3-938d-51224a0cac01",
+    "UserConsentDisplayName": "Read any shared cross-tenant user profiles and export or delete data",
+    "Value": "CrossTenantUserProfileSharing.ReadWrite.All"
+  },
+  {
+    "Id": "b2052569-c98c-4f36-a5fb-43e5c111e6d0",
+    "UserConsentDisplayName": "Read your organization's custom authentication extensions",
+    "Value": "CustomAuthenticationExtension.Read.All"
+  },
+  {
+    "Id": "8dfcf82f-15d0-43b3-bc78-a958a13a5792",
+    "UserConsentDisplayName": "Read and write your organization's custom authentication extensions",
+    "Value": "CustomAuthenticationExtension.ReadWrite.All"
+  },
+  {
+    "Id": "b13ff42e-f321-4d7d-a462-141c46a1b832",
+    "UserConsentDisplayName": "Read custom detection rules",
+    "Value": "CustomDetection.Read.All"
+  },
+  {
+    "Id": "c34088fb-0649-4714-af0b-bcbfec155897",
+    "UserConsentDisplayName": "Read and write custom detection rules",
+    "Value": "CustomDetection.ReadWrite.All"
+  },
+  {
+    "Id": "b46ffa80-fe3d-4822-9a1a-c200932d54d0",
+    "UserConsentDisplayName": "Read custom security attribute assignments",
+    "Value": "CustomSecAttributeAssignment.Read.All"
+  },
+  {
+    "Id": "ca46335e-8453-47cd-a001-8459884efeae",
+    "UserConsentDisplayName": "Read and write custom security attribute assignments",
+    "Value": "CustomSecAttributeAssignment.ReadWrite.All"
+  },
+  {
+    "Id": "1fcdeaab-b519-44dd-bffc-ed1fd15a24e0",
+    "UserConsentDisplayName": "Read custom security attribute audit logs",
+    "Value": "CustomSecAttributeAuditLogs.Read.All"
+  },
+  {
+    "Id": "ce026878-a0ff-4745-a728-d4fedd086c07",
+    "UserConsentDisplayName": "Read custom security attribute definitions",
+    "Value": "CustomSecAttributeDefinition.Read.All"
+  },
+  {
+    "Id": "8b0160d4-5743-482b-bb27-efc0a485ca4a",
+    "UserConsentDisplayName": "Read and write custom security attribute definitions",
+    "Value": "CustomSecAttributeDefinition.ReadWrite.All"
+  },
+  {
+    "Id": "de6ea87d-10bd-467c-8682-d525a0c61b89",
+    "UserConsentDisplayName": "Read all custom tags data",
+    "Value": "CustomTags.Read.All"
+  },
+  {
+    "Id": "2f1bbe0a-f34b-4efb-9edb-8db8dcb50eca",
+    "UserConsentDisplayName": "Read and write all custom tags data",
+    "Value": "CustomTags.ReadWrite.All"
+  },
+  {
+    "Id": "0c0064ea-477b-4130-82a5-4c2cc4ff68aa",
+    "UserConsentDisplayName": "Read Delegated Admin relationships with customers",
+    "Value": "DelegatedAdminRelationship.Read.All"
+  },
+  {
+    "Id": "885f682f-a990-4bad-a642-36736a74b0c7",
+    "UserConsentDisplayName": "Manage Delegated Admin relationships with customers",
+    "Value": "DelegatedAdminRelationship.ReadWrite.All"
+  },
+  {
+    "Id": "a197cdc4-a8e8-4d49-9d35-4ca7c83887b4",
+    "UserConsentDisplayName": "Read delegated permission grants",
+    "Value": "DelegatedPermissionGrant.Read.All"
+  },
+  {
+    "Id": "41ce6ca6-6826-4807-84f1-1c82854f7ee5",
+    "UserConsentDisplayName": "Manage all delegated permission grants",
+    "Value": "DelegatedPermissionGrant.ReadWrite.All"
+  },
+  {
+    "Id": "bac3b9c2-b516-4ef4-bd3b-c2ef73d8d804",
+    "UserConsentDisplayName": "Communicate with your other devices",
+    "Value": "Device.Command"
+  },
+  {
+    "Id": "11d4cd79-5ba5-460f-803f-e22c8ab85ccd",
+    "UserConsentDisplayName": "View your list of devices",
+    "Value": "Device.Read"
+  },
+  {
+    "Id": "951183d1-1a61-466f-a6d1-1fde911bfd95",
+    "UserConsentDisplayName": "Read all devices",
+    "Value": "Device.Read.All"
+  },
+  {
+    "Id": "280b3b69-0437-44b1-bc20-3b2fca1ee3e9",
+    "UserConsentDisplayName": "Read device local credential passwords",
+    "Value": "DeviceLocalCredential.Read.All"
+  },
+  {
+    "Id": "9917900e-410b-4d15-846e-42a357488545",
+    "UserConsentDisplayName": "Read device local credential properties",
+    "Value": "DeviceLocalCredential.ReadBasic.All"
+  },
+  {
+    "Id": "4edf5f54-4666-44af-9de9-0144fb4b6e8c",
+    "UserConsentDisplayName": "Read Microsoft Intune apps",
+    "Value": "DeviceManagementApps.Read.All"
+  },
+  {
+    "Id": "7b3f05d5-f68c-4b8d-8c59-a2ecd12f24af",
+    "UserConsentDisplayName": "Read and write Microsoft Intune apps",
+    "Value": "DeviceManagementApps.ReadWrite.All"
+  },
+  {
+    "Id": "f1493658-876a-4c87-8fa7-edb559b3476a",
+    "UserConsentDisplayName": "Read Microsoft Intune Device Configuration and Policies",
+    "Value": "DeviceManagementConfiguration.Read.All"
+  },
+  {
+    "Id": "0883f392-0a7a-443d-8c76-16a6d39c7b63",
+    "UserConsentDisplayName": "Read and write Microsoft Intune Device Configuration and Policies",
+    "Value": "DeviceManagementConfiguration.ReadWrite.All"
+  },
+  {
+    "Id": "3404d2bf-2b13-457e-a330-c24615765193",
+    "UserConsentDisplayName": "Perform user-impacting remote actions on Microsoft Intune devices",
+    "Value": "DeviceManagementManagedDevices.PrivilegedOperations.All"
+  },
+  {
+    "Id": "314874da-47d6-4978-88dc-cf0d37f0bb82",
+    "UserConsentDisplayName": "Read devices Microsoft Intune devices",
+    "Value": "DeviceManagementManagedDevices.Read.All"
+  },
+  {
+    "Id": "44642bfe-8385-4adc-8fc6-fe3cb2c375c3",
+    "UserConsentDisplayName": "Read and write Microsoft Intune devices",
+    "Value": "DeviceManagementManagedDevices.ReadWrite.All"
+  },
+  {
+    "Id": "49f0cc30-024c-4dfd-ab3e-82e137ee5431",
+    "UserConsentDisplayName": "Read Microsoft Intune RBAC settings",
+    "Value": "DeviceManagementRBAC.Read.All"
+  },
+  {
+    "Id": "0c5e8a55-87a6-4556-93ab-adc52c4d862d",
+    "UserConsentDisplayName": "Read and write Microsoft Intune RBAC settings",
+    "Value": "DeviceManagementRBAC.ReadWrite.All"
+  },
+  {
+    "Id": "8696daa5-bce5-4b2e-83f9-51b6defc4e1e",
+    "UserConsentDisplayName": "Read Microsoft Intune configuration",
+    "Value": "DeviceManagementServiceConfig.Read.All"
+  },
+  {
+    "Id": "662ed50a-ac44-4eef-ad86-62eed9be2a29",
+    "UserConsentDisplayName": "Read and write Microsoft Intune configuration",
+    "Value": "DeviceManagementServiceConfig.ReadWrite.All"
+  },
+  {
+    "Id": "0e263e50-5827-48a4-b97c-d940288653c7",
+    "UserConsentDisplayName": "Access the directory as you",
+    "Value": "Directory.AccessAsUser.All"
+  },
+  {
+    "Id": "06da0dbc-49e2-44d2-8312-53f166ab848a",
+    "UserConsentDisplayName": "Read directory data",
+    "Value": "Directory.Read.All"
+  },
+  {
+    "Id": "c5366453-9fb0-48a5-a156-24f0c49a4b84",
+    "UserConsentDisplayName": "Read and write directory data",
+    "Value": "Directory.ReadWrite.All"
+  },
+  {
+    "Id": "cba5390f-ed6a-4b7f-b657-0efc2210ed20",
+    "UserConsentDisplayName": "Manage restricted resources in the directory",
+    "Value": "Directory.Write.Restricted"
+  },
+  {
+    "Id": "34d3bd24-f6a6-468c-b67c-0c365c1d6410",
+    "UserConsentDisplayName": "Read Azure AD recommendations",
+    "Value": "DirectoryRecommendations.Read.All"
+  },
+  {
+    "Id": "f37235e8-90a0-4189-93e2-e55b53867ccd",
+    "UserConsentDisplayName": "Read and update Azure AD recommendations",
+    "Value": "DirectoryRecommendations.ReadWrite.All"
+  },
+  {
+    "Id": "2f9ee017-59c1-4f1d-9472-bd5529a7b311",
+    "UserConsentDisplayName": "Read domains.",
+    "Value": "Domain.Read.All"
+  },
+  {
+    "Id": "0b5d694c-a244-4bde-86e6-eb5cd07730fe",
+    "UserConsentDisplayName": "Read and write domains",
+    "Value": "Domain.ReadWrite.All"
+  },
+  {
+    "Id": "ff91d191-45a0-43fd-b837-bd682c4a0b0f",
+    "UserConsentDisplayName": "Access your mailboxes",
+    "Value": "EAS.AccessAsUser.All"
+  },
+  {
+    "Id": "99201db3-7652-4d5a-809a-bdb94f85fe3c",
+    "UserConsentDisplayName": "Read all eDiscovery objects",
+    "Value": "eDiscovery.Read.All"
+  },
+  {
+    "Id": "acb8f680-0834-4146-b69e-4ab1b39745ad",
+    "UserConsentDisplayName": "Read and write all eDiscovery objects",
+    "Value": "eDiscovery.ReadWrite.All"
+  },
+  {
+    "Id": "8523895c-6081-45bf-8a5d-f062a2f12c9f",
+    "UserConsentDisplayName": "View your education app settings",
+    "Value": "EduAdministration.Read"
+  },
+  {
+    "Id": "63589852-04e3-46b4-bae9-15d5b1050748",
+    "UserConsentDisplayName": "Manage your education app settings",
+    "Value": "EduAdministration.ReadWrite"
+  },
+  {
+    "Id": "091460c9-9c4a-49b2-81ef-1f3d852acce2",
+    "UserConsentDisplayName": "View your assignments and grades",
+    "Value": "EduAssignments.Read"
+  },
+  {
+    "Id": "c0b0103b-c053-4b2e-9973-9f3a544ec9b8",
+    "UserConsentDisplayName": "View your assignments without grades",
+    "Value": "EduAssignments.ReadBasic"
+  },
+  {
+    "Id": "2f233e90-164b-4501-8bce-31af2559a2d3",
+    "UserConsentDisplayName": "View and modify your assignments and grades",
+    "Value": "EduAssignments.ReadWrite"
+  },
+  {
+    "Id": "2ef770a1-622a-47c4-93ee-28d6adbed3a0",
+    "UserConsentDisplayName": "View and modify your assignments without grades",
+    "Value": "EduAssignments.ReadWriteBasic"
+  },
+  {
+    "Id": "484859e8-b9e2-4e92-b910-84db35dadd29",
+    "UserConsentDisplayName": "Read your class modules and resources",
+    "Value": "EduCurricula.Read"
+  },
+  {
+    "Id": "4793c53b-df34-44fd-8d26-d15c517732f5",
+    "UserConsentDisplayName": "Read and write your class modules and resources",
+    "Value": "EduCurricula.ReadWrite"
+  },
+  {
+    "Id": "a4389601-22d9-4096-ac18-36a927199112",
+    "UserConsentDisplayName": "View your school, class and user information",
+    "Value": "EduRoster.Read"
+  },
+  {
+    "Id": "5d186531-d1bf-4f07-8cea-7c42119e1bd9",
+    "UserConsentDisplayName": "View a limited subset of your school, class and user information",
+    "Value": "EduRoster.ReadBasic"
+  },
+  {
+    "Id": "359e19a6-e3fa-4d7f-bcab-d28ec592b51e",
+    "UserConsentDisplayName": "View and modify your school, class and user information",
+    "Value": "EduRoster.ReadWrite"
+  },
+  {
+    "Id": "64a6cdd6-aab1-4aaf-94b8-3cc8405e90d0",
+    "UserConsentDisplayName": "View your email address",
+    "Value": "email"
+  },
+  {
+    "Id": "5449aa12-1393-4ea2-a7c7-d0e06c1a56b2",
+    "UserConsentDisplayName": "Read all entitlement management resources",
+    "Value": "EntitlementManagement.Read.All"
+  },
+  {
+    "Id": "ae7a573d-81d7-432b-ad44-4ed5c9d89038",
+    "UserConsentDisplayName": "Read and write entitlement management resources",
+    "Value": "EntitlementManagement.ReadWrite.All"
+  },
+  {
+    "Id": "e9fdcbbb-8807-410f-b9ec-8d5468c7c2ac",
+    "UserConsentDisplayName": "Read and write self-service entitlement management resources",
+    "Value": "EntitlementMgmt-SubjectAccess.ReadWrite"
+  },
+  {
+    "Id": "f7dd3bed-5eec-48da-bc73-1c0ef50bc9a1",
+    "UserConsentDisplayName": "Read your organization's authentication event listeners",
+    "Value": "EventListener.Read.All"
+  },
+  {
+    "Id": "d11625a6-fe21-4fc6-8d3d-063eba5525ad",
+    "UserConsentDisplayName": "Read and write your organization's authentication event listeners",
+    "Value": "EventListener.ReadWrite.All"
+  },
+  {
+    "Id": "9769c687-087d-48ac-9cb3-c37dde652038",
+    "UserConsentDisplayName": "Access your mailboxes",
+    "Value": "EWS.AccessAsUser.All"
+  },
+  {
+    "Id": "a38267a5-26b6-4d76-9493-935b7599116b",
+    "UserConsentDisplayName": "Read all external connections",
+    "Value": "ExternalConnection.Read.All"
+  },
+  {
+    "Id": "bbbbd9b3-3566-4931-ac37-2b2180d9e334",
+    "UserConsentDisplayName": "Read and write all external connections",
+    "Value": "ExternalConnection.ReadWrite.All"
+  },
+  {
+    "Id": "4082ad95-c812-4f02-be92-780c4c4f1830",
+    "UserConsentDisplayName": "Read and write external connections",
+    "Value": "ExternalConnection.ReadWrite.OwnedBy"
+  },
+  {
+    "Id": "922f9392-b1b7-483c-a4be-0089be7704fb",
+    "UserConsentDisplayName": "Read items in external datasets",
+    "Value": "ExternalItem.Read.All"
+  },
+  {
+    "Id": "b02c54f8-eb48-4c50-a9f0-a149e5a2012f",
+    "UserConsentDisplayName": "Read and write all external items",
+    "Value": "ExternalItem.ReadWrite.All"
+  },
+  {
+    "Id": "4367b9d7-cee7-4995-853c-a0bdfe95c1f9",
+    "UserConsentDisplayName": "Read and write external items",
+    "Value": "ExternalItem.ReadWrite.OwnedBy"
+  },
+  {
+    "Id": "47167bec-55a7-4caf-9ecc-8d4566e3cfb1",
+    "UserConsentDisplayName": "Read external user profiles",
+    "Value": "ExternalUserProfile.Read.All"
+  },
+  {
+    "Id": "c6068dc7-a791-46a4-a811-b8228e6649ab",
+    "UserConsentDisplayName": "Read and write external user profiles",
+    "Value": "ExternalUserProfile.ReadWrite.All"
+  },
+  {
+    "Id": "3a1e4806-a744-4c70-80fc-223bf8582c46",
+    "UserConsentDisplayName": "Read your family info",
+    "Value": "Family.Read"
+  },
+  {
+    "Id": "10465720-29dd-4523-a11a-6a75c743c9d9",
+    "UserConsentDisplayName": "Read your files",
+    "Value": "Files.Read"
+  },
+  {
+    "Id": "df85f4d6-205c-4ac5-a5ea-6bf408dba283",
+    "UserConsentDisplayName": "Read all files that you have access to",
+    "Value": "Files.Read.All"
+  },
+  {
+    "Id": "5447fe39-cb82-4c1a-b977-520e67e724eb",
+    "UserConsentDisplayName": "Read selected files",
+    "Value": "Files.Read.Selected"
+  },
+  {
+    "Id": "5c28f0bf-8a70-41f1-8ab2-9032436ddb65",
+    "UserConsentDisplayName": "Have full access to your files",
+    "Value": "Files.ReadWrite"
+  },
+  {
+    "Id": "863451e7-0667-486c-a5d6-d135439485f0",
+    "UserConsentDisplayName": "Have full access to all files you have access to",
+    "Value": "Files.ReadWrite.All"
+  },
+  {
+    "Id": "8019c312-3263-48e6-825e-2b833497195b",
+    "UserConsentDisplayName": "Have full access to the application's folder",
+    "Value": "Files.ReadWrite.AppFolder"
+  },
+  {
+    "Id": "17dde5bd-8c17-420f-a486-969730c1b827",
+    "UserConsentDisplayName": "Read and write selected files",
+    "Value": "Files.ReadWrite.Selected"
+  },
+  {
+    "Id": "ef2779dc-ef1b-4211-8310-8a0ac2450081",
+    "UserConsentDisplayName": "Access selected Files, on behalf of the signed-in user",
+    "Value": "Files.SelectedOperations.Selected"
+  },
+  {
+    "Id": "085ca537-6565-41c2-aca7-db852babc212",
+    "UserConsentDisplayName": "Access selected file storage containers",
+    "Value": "FileStorageContainer.Selected"
+  },
+  {
+    "Id": "f534bf13-55d4-45a9-8f3c-c92fe64d6131",
+    "UserConsentDisplayName": "Read and write financials data",
+    "Value": "Financials.ReadWrite.All"
+  },
+  {
+    "Id": "092211d9-ca1a-427b-813e-b79c7653fe71",
+    "UserConsentDisplayName": "Read all goals and export jobs that you have access to",
+    "Value": "Goals-Export.Read.All"
+  },
+  {
+    "Id": "2edeb9fd-4228-480c-a26d-2ed52011cf3d",
+    "UserConsentDisplayName": "Read goals, create and read export jobs that you can access",
+    "Value": "Goals-Export.ReadWrite.All"
+  },
+  {
+    "Id": "c92fbbc2-50e0-4842-93ef-385c3293ea3d",
+    "UserConsentDisplayName": "Read group conversations",
+    "Value": "Group-Conversation.Read.All"
+  },
+  {
+    "Id": "302bcbb5-855a-4e49-ae20-94a331b0281e",
+    "UserConsentDisplayName": "Read and write group conversations",
+    "Value": "Group-Conversation.ReadWrite.All"
+  },
+  {
+    "Id": "5f8c59db-677d-491f-a6b8-5f174b11ec1d",
+    "UserConsentDisplayName": "Read all groups",
+    "Value": "Group.Read.All"
+  },
+  {
+    "Id": "4e46008b-f24c-477d-8fff-7bb4ec7aafe0",
+    "UserConsentDisplayName": "Read and write all groups",
+    "Value": "Group.ReadWrite.All"
+  },
+  {
+    "Id": "bc024368-1153-4739-b217-4326f2e966d0",
+    "UserConsentDisplayName": "Read group memberships",
+    "Value": "GroupMember.Read.All"
+  },
+  {
+    "Id": "f81125ac-d3b7-4573-a3b2-7099cc39df9e",
+    "UserConsentDisplayName": "Read and write group memberships",
+    "Value": "GroupMember.ReadWrite.All"
+  },
+  {
+    "Id": "74b4ff32-4917-4536-a66d-38a4861e6220",
+    "UserConsentDisplayName": "Read all alerts",
+    "Value": "HealthMonitoringAlert.Read.All"
+  },
+  {
+    "Id": "b7c60f27-2195-4d5f-96a7-6b98bdfd9664",
+    "UserConsentDisplayName": "Read and write all scenario monitoring alerts",
+    "Value": "HealthMonitoringAlert.ReadWrite.All"
+  },
+  {
+    "Id": "fb873030-8626-47e6-96ff-8a5bff3b725f",
+    "UserConsentDisplayName": "Read all alert configurations",
+    "Value": "HealthMonitoringAlertConfig.Read.All"
+  },
+  {
+    "Id": "b3e5ebc6-1c23-4337-8286-3f27165addb4",
+    "UserConsentDisplayName": "Read and write all scenario monitoring alert configurations",
+    "Value": "HealthMonitoringAlertConfig.ReadWrite.All"
+  },
+  {
+    "Id": "43781733-b5a7-4d1b-98f4-e8edff23e1a9",
+    "UserConsentDisplayName": "Read identity providers",
+    "Value": "IdentityProvider.Read.All"
+  },
+  {
+    "Id": "f13ce604-1677-429f-90bd-8a10b9f01325",
+    "UserConsentDisplayName": "Read and write identity providers",
+    "Value": "IdentityProvider.ReadWrite.All"
+  },
+  {
+    "Id": "8f6a01e7-0391-4ee5-aa22-a3af122cef27",
+    "UserConsentDisplayName": "Read identity risk event information",
+    "Value": "IdentityRiskEvent.Read.All"
+  },
+  {
+    "Id": "9e4862a5-b68f-479e-848a-4e07e25c9916",
+    "UserConsentDisplayName": "Read and write risk event information",
+    "Value": "IdentityRiskEvent.ReadWrite.All"
+  },
+  {
+    "Id": "ea5c4ab0-5a73-4f35-8272-5d5337884e5d",
+    "UserConsentDisplayName": "Read all identity risky service principal information",
+    "Value": "IdentityRiskyServicePrincipal.Read.All"
+  },
+  {
+    "Id": "bb6f654c-d7fd-4ae3-85c3-fc380934f515",
+    "UserConsentDisplayName": "Read and write all identity risky service principal information",
+    "Value": "IdentityRiskyServicePrincipal.ReadWrite.All"
+  },
+  {
+    "Id": "d04bb851-cb7c-4146-97c7-ca3e71baf56c",
+    "UserConsentDisplayName": "Read identity risky user information",
+    "Value": "IdentityRiskyUser.Read.All"
+  },
+  {
+    "Id": "e0a7cdbb-08b0-4697-8264-0069786e9674",
+    "UserConsentDisplayName": "Read and write identity risky user information",
+    "Value": "IdentityRiskyUser.ReadWrite.All"
+  },
+  {
+    "Id": "2903d63d-4611-4d43-99ce-a33f3f52e343",
+    "UserConsentDisplayName": "Read all identity user flows",
+    "Value": "IdentityUserFlow.Read.All"
+  },
+  {
+    "Id": "281892cc-4dbf-4e3a-b6cc-b21029bb4e82",
+    "UserConsentDisplayName": "Read and write all identity user flows",
+    "Value": "IdentityUserFlow.ReadWrite.All"
+  },
+  {
+    "Id": "652390e4-393a-48de-9484-05f9b1212954",
+    "UserConsentDisplayName": "Read and write access to your mail.",
+    "Value": "IMAP.AccessAsUser.All"
+  },
+  {
+    "Id": "d19c0de5-7ecb-4aba-b090-da35ebcd5425",
+    "UserConsentDisplayName": "View data connector definitions",
+    "Value": "IndustryData-DataConnector.Read.All"
+  },
+  {
+    "Id": "5ce933ac-3997-4280-aed0-cc072e5c062a",
+    "UserConsentDisplayName": "Manage data connector definitions",
+    "Value": "IndustryData-DataConnector.ReadWrite.All"
+  },
+  {
+    "Id": "fc47391d-ab2c-410f-9059-5600f7af660d",
+    "UserConsentDisplayName": "Upload files to a data connector",
+    "Value": "IndustryData-DataConnector.Upload"
+  },
+  {
+    "Id": "cb0774da-a605-42af-959c-32f438fb38f4",
+    "UserConsentDisplayName": "View inbound flow definitions",
+    "Value": "IndustryData-InboundFlow.Read.All"
+  },
+  {
+    "Id": "97044676-2cec-40ee-bd70-38df444c9e70",
+    "UserConsentDisplayName": "Manage inbound flow definitions",
+    "Value": "IndustryData-InboundFlow.ReadWrite.All"
+  },
+  {
+    "Id": "4741a003-8952-4be4-9217-33a0ac327122",
+    "UserConsentDisplayName": "View outbound flow definitions",
+    "Value": "IndustryData-OutboundFlow.Read.All"
+  },
+  {
+    "Id": "aeb68e0b-e562-4a1f-b6dd-3484ad0cbb4b",
+    "UserConsentDisplayName": "Manage outbound flow definitions",
+    "Value": "IndustryData-OutboundFlow.ReadWrite.All"
+  },
+  {
+    "Id": "a3f96ffe-cb84-40a8-ac85-582d7ef97c2a",
+    "UserConsentDisplayName": "View reference definitions",
+    "Value": "IndustryData-ReferenceDefinition.Read.All"
+  },
+  {
+    "Id": "a757d430-be6d-430f-af57-28aabe79d247",
+    "UserConsentDisplayName": "Manage reference definition",
+    "Value": "IndustryData-ReferenceDefinition.ReadWrite.All"
+  },
+  {
+    "Id": "92685235-50c4-4702-b2c8-36043db6fa79",
+    "UserConsentDisplayName": "View current and previous runs",
+    "Value": "IndustryData-Run.Read.All"
+  },
+  {
+    "Id": "49b7016c-89ae-41e7-bd6f-b7170c5490bf",
+    "UserConsentDisplayName": "View source system definitions",
+    "Value": "IndustryData-SourceSystem.Read.All"
+  },
+  {
+    "Id": "9599f005-05d6-4ea7-b1b1-4929768af5d0",
+    "UserConsentDisplayName": "Manage source system definitions",
+    "Value": "IndustryData-SourceSystem.ReadWrite.All"
+  },
+  {
+    "Id": "c9d51f28-8ccd-42b2-a836-fd8fe9ebf2ae",
+    "UserConsentDisplayName": "Read time period definitions",
+    "Value": "IndustryData-TimePeriod.Read.All"
+  },
+  {
+    "Id": "b6d56528-3032-4f9d-830f-5a24a25e6661",
+    "UserConsentDisplayName": "Manage time period definitions",
+    "Value": "IndustryData-TimePeriod.ReadWrite.All"
+  },
+  {
+    "Id": "60382b96-1f5e-46ea-a544-0407e489e588",
+    "UserConsentDisplayName": "Read basic Industry Data service and resource definitions",
+    "Value": "IndustryData.ReadBasic.All"
+  },
+  {
+    "Id": "12f4bffb-b598-413c-984b-db99728f8b54",
+    "UserConsentDisplayName": "Read configurations for protecting organizational data applicable to you",
+    "Value": "InformationProtectionConfig.Read"
+  },
+  {
+    "Id": "4ad84827-5578-4e18-ad7a-86530b12f884",
+    "UserConsentDisplayName": "Read user sensitivity labels and label policies.",
+    "Value": "InformationProtectionPolicy.Read"
+  },
+  {
+    "Id": "7d249730-51a3-4180-8ec1-214f144f1bff",
+    "UserConsentDisplayName": "Read user metrics insights",
+    "Value": "Insights-UserMetric.Read.All"
+  },
+  {
+    "Id": "ac08cdae-e845-41db-adf9-5899a0ec9ef6",
+    "UserConsentDisplayName": "Read your assignments",
+    "Value": "LearningAssignedCourse.Read"
+  },
+  {
+    "Id": "ea4c1fd9-6a9f-4432-8e5d-86e06cc0da77",
+    "UserConsentDisplayName": "Read learning content",
+    "Value": "LearningContent.Read.All"
+  },
+  {
+    "Id": "53cec1c4-a65f-4981-9dc1-ad75dbf1c077",
+    "UserConsentDisplayName": "Manage learning content",
+    "Value": "LearningContent.ReadWrite.All"
+  },
+  {
+    "Id": "dd8ce36f-9245-45ea-a99e-8ac398c22861",
+    "UserConsentDisplayName": "Read learning provider",
+    "Value": "LearningProvider.Read"
+  },
+  {
+    "Id": "40c2eb57-abaf-49f5-9331-e90fd01f7130",
+    "UserConsentDisplayName": "Manage learning provider",
+    "Value": "LearningProvider.ReadWrite"
+  },
+  {
+    "Id": "f6403ef7-4a96-47be-a190-69ba274c3f11",
+    "UserConsentDisplayName": "Read your self-initiated courses",
+    "Value": "LearningSelfInitiatedCourse.Read"
+  },
+  {
+    "Id": "f55016cc-149c-447e-8f21-7cf3ec1d6350",
+    "UserConsentDisplayName": "Manage all license assignments",
+    "Value": "LicenseAssignment.ReadWrite.All"
+  },
+  {
+    "Id": "9bcb9916-765a-42af-bf77-02282e26b01a",
+    "UserConsentDisplayName": "Read all lifecycle workflows resources",
+    "Value": "LifecycleWorkflows.Read.All"
+  },
+  {
+    "Id": "84b9d731-7db8-4454-8c90-fd9e95350179",
+    "UserConsentDisplayName": "Read and write all lifecycle workflows resources",
+    "Value": "LifecycleWorkflows.ReadWrite.All"
+  },
+  {
+    "Id": "d6d361b3-211a-4191-9fa7-15f72de4aac4",
+    "UserConsentDisplayName": "Access selected ListItems, on behalf of the signed-in user",
+    "Value": "ListItems.SelectedOperations.Selected"
+  },
+  {
+    "Id": "033b51ee-d6fa-4add-b627-ee680c7212b5",
+    "UserConsentDisplayName": "Access selected Lists, on behalf of the signed-in user",
+    "Value": "Lists.SelectedOperations.Selected"
+  },
+  {
+    "Id": "570282fd-fa5c-430d-a7fd-fc8dc98a9dca",
+    "UserConsentDisplayName": "Read your mail ",
+    "Value": "Mail.Read"
+  },
+  {
+    "Id": "7b9103a5-4610-446b-9670-80643382c1fa",
+    "UserConsentDisplayName": "Read mail you can access",
+    "Value": "Mail.Read.Shared"
+  },
+  {
+    "Id": "a4b8392a-d8d1-4954-a029-8e668a39a170",
+    "UserConsentDisplayName": "Read user basic mail",
+    "Value": "Mail.ReadBasic"
+  },
+  {
+    "Id": "b11fa0e7-fdb7-4dc9-b1f1-59facd463480",
+    "UserConsentDisplayName": "Read basic mail you can access",
+    "Value": "Mail.ReadBasic.Shared"
+  },
+  {
+    "Id": "024d486e-b451-40bb-833d-3e66d98c5c73",
+    "UserConsentDisplayName": "Read and write access to your mail ",
+    "Value": "Mail.ReadWrite"
+  },
+  {
+    "Id": "5df07973-7d5d-46ed-9847-1271055cbd51",
+    "UserConsentDisplayName": "Read and write mail you can access",
+    "Value": "Mail.ReadWrite.Shared"
+  },
+  {
+    "Id": "e383f46e-2787-4529-855e-0e479a3ffac0",
+    "UserConsentDisplayName": "Send mail as you ",
+    "Value": "Mail.Send"
+  },
+  {
+    "Id": "a367ab51-6b49-43bf-a716-a1fb06d2a174",
+    "UserConsentDisplayName": "Send mail on behalf of others or yourself",
+    "Value": "Mail.Send.Shared"
+  },
+  {
+    "Id": "87f447af-9fa4-4c32-9dfa-4a57a73d18ce",
+    "UserConsentDisplayName": "Read your mailbox settings",
+    "Value": "MailboxSettings.Read"
+  },
+  {
+    "Id": "818c620a-27a9-40bd-a6a5-d96f7d610b4b",
+    "UserConsentDisplayName": "Read and write to your mailbox settings",
+    "Value": "MailboxSettings.ReadWrite"
+  },
+  {
+    "Id": "dc34164e-6c4a-41a0-be89-3ae2fbad7cd3",
+    "UserConsentDisplayName": "Read all managed tenant information",
+    "Value": "ManagedTenants.Read.All"
+  },
+  {
+    "Id": "b31fa710-c9b3-4d9e-8f5e-8036eecddab9",
+    "UserConsentDisplayName": "Read and write all managed tenant information",
+    "Value": "ManagedTenants.ReadWrite.All"
+  },
+  {
+    "Id": "f6a3db3e-f7e8-4ed2-a414-557c8c9830be",
+    "UserConsentDisplayName": "Read your hidden memberships",
+    "Value": "Member.Read.Hidden"
+  },
+  {
+    "Id": "526aa72a-5878-49fe-bf4e-357973af9b06",
+    "UserConsentDisplayName": "Read multi-tenant organization details and tenants",
+    "Value": "MultiTenantOrganization.Read.All"
+  },
+  {
+    "Id": "225db56b-15b2-4daa-acb3-0eec2bbe4849",
+    "UserConsentDisplayName": "Read multi-tenant organization basic details and active tenants",
+    "Value": "MultiTenantOrganization.ReadBasic.All"
+  },
+  {
+    "Id": "77af1528-84f3-4023-8d90-d219cd433108",
+    "UserConsentDisplayName": "Read and write multi-tenant organization details and tenants",
+    "Value": "MultiTenantOrganization.ReadWrite.All"
+  },
+  {
+    "Id": "b0c61509-cfc3-42bd-9bd4-66d81785fee4",
+    "UserConsentDisplayName": "Read all network access reports",
+    "Value": "NetworkAccess-Reports.Read.All"
+  },
+  {
+    "Id": "2f7013e0-ab4e-447f-a5e1-5d419950692d",
+    "UserConsentDisplayName": "Read all network access information",
+    "Value": "NetworkAccess.Read.All"
+  },
+  {
+    "Id": "ae2df9c5-f18d-4ec4-a51b-bdeb807f177b",
+    "UserConsentDisplayName": "Read and write all network access information",
+    "Value": "NetworkAccess.ReadWrite.All"
+  },
+  {
+    "Id": "4051c7fc-b429-4804-8d80-8f1f8c24a6f7",
+    "UserConsentDisplayName": "Read properties of branches for network access",
+    "Value": "NetworkAccessBranch.Read.All"
+  },
+  {
+    "Id": "b8a36cc2-b810-461a-baa4-a7281e50bd5c",
+    "UserConsentDisplayName": "Read and write properties of branches for network access",
+    "Value": "NetworkAccessBranch.ReadWrite.All"
+  },
+  {
+    "Id": "ba22922b-752c-446f-89d7-a2d92398fceb",
+    "UserConsentDisplayName": "Read security and routing policies for network access",
+    "Value": "NetworkAccessPolicy.Read.All"
+  },
+  {
+    "Id": "b1fbad0f-ef6e-42ed-8676-bca7fa3e7291",
+    "UserConsentDisplayName": "Read and write security and routing policies for network access",
+    "Value": "NetworkAccessPolicy.ReadWrite.All"
+  },
+  {
+    "Id": "9d822255-d64d-4b7a-afdb-833b9a97ed02",
+    "UserConsentDisplayName": "Create your OneNote notebooks",
+    "Value": "Notes.Create"
+  },
+  {
+    "Id": "371361e4-b9e2-4a3f-8315-2a301a3b0a3d",
+    "UserConsentDisplayName": "Read your OneNote notebooks",
+    "Value": "Notes.Read"
+  },
+  {
+    "Id": "dfabfca6-ee36-4db2-8208-7a28381419b3",
+    "UserConsentDisplayName": "Read all OneNote notebooks that you can access",
+    "Value": "Notes.Read.All"
+  },
+  {
+    "Id": "615e26af-c38a-4150-ae3e-c3b0d4cb1d6a",
+    "UserConsentDisplayName": "Read and write your OneNote notebooks",
+    "Value": "Notes.ReadWrite"
+  },
+  {
+    "Id": "64ac0503-b4fa-45d9-b544-71a463f05da0",
+    "UserConsentDisplayName": "Read and write all OneNote notebooks that you can access",
+    "Value": "Notes.ReadWrite.All"
+  },
+  {
+    "Id": "ed68249d-017c-4df5-9113-e684c7f8760b",
+    "UserConsentDisplayName": "Limited access to your OneNote notebooks for this app (preview)",
+    "Value": "Notes.ReadWrite.CreatedByApp"
+  },
+  {
+    "Id": "89497502-6e42-46a2-8cb2-427fd3df970a",
+    "UserConsentDisplayName": "Deliver and manage your notifications for this app",
+    "Value": "Notifications.ReadWrite.CreatedByApp"
+  },
+  {
+    "Id": "7427e0e9-2fba-42fe-b0c0-848c9e6a8182",
+    "UserConsentDisplayName": "Maintain access to data you have given it access to",
+    "Value": "offline_access"
+  },
+  {
+    "Id": "110e5abb-a10c-4b59-8b55-9b4daa4ef743",
+    "UserConsentDisplayName": "Read user's online meeting artifacts",
+    "Value": "OnlineMeetingArtifact.Read.All"
+  },
+  {
+    "Id": "190c2bb6-1fdd-4fec-9aa2-7d571b5e1fe3",
+    "UserConsentDisplayName": "Read all recordings of online meetings. ",
+    "Value": "OnlineMeetingRecording.Read.All"
+  },
+  {
+    "Id": "9be106e1-f4e3-4df5-bdff-e4bc531cbe43",
+    "UserConsentDisplayName": "Read your online meetings",
+    "Value": "OnlineMeetings.Read"
+  },
+  {
+    "Id": "a65f2972-a4f8-4f5e-afd7-69ccb046d5dc",
+    "UserConsentDisplayName": "Read and create your online meetings",
+    "Value": "OnlineMeetings.ReadWrite"
+  },
+  {
+    "Id": "30b87d18-ebb1-45db-97f8-82ccb1f0190c",
+    "UserConsentDisplayName": "Read all transcripts of online meetings.",
+    "Value": "OnlineMeetingTranscript.Read.All"
+  },
+  {
+    "Id": "f6609722-4100-44eb-b747-e6ca0536989d",
+    "UserConsentDisplayName": "Read all on-premises directory synchronization information",
+    "Value": "OnPremDirectorySynchronization.Read.All"
+  },
+  {
+    "Id": "c2d95988-7604-4ba1-aaed-38a5f82a51c7",
+    "UserConsentDisplayName": "Read and write all on-premises directory synchronization information",
+    "Value": "OnPremDirectorySynchronization.ReadWrite.All"
+  },
+  {
+    "Id": "8c4d5184-71c2-4bf8-bb9d-bc3378c9ad42",
+    "UserConsentDisplayName": "Manage on-premises published resources",
+    "Value": "OnPremisesPublishingProfiles.ReadWrite.All"
+  },
+  {
+    "Id": "37f7f235-527c-4136-accd-4a02d197296e",
+    "UserConsentDisplayName": "Sign in as you",
+    "Value": "openid"
+  },
+  {
+    "Id": "4908d5b9-3fb2-4b1e-9336-1888b7937185",
+    "UserConsentDisplayName": "Read organization information",
+    "Value": "Organization.Read.All"
+  },
+  {
+    "Id": "46ca0847-7e6b-426e-9775-ea810a948356",
+    "UserConsentDisplayName": "Read and write organization information",
+    "Value": "Organization.ReadWrite.All"
+  },
+  {
+    "Id": "9082f138-6f02-4f3a-9f4d-5f3c2ce5c688",
+    "UserConsentDisplayName": "Read organizational branding information",
+    "Value": "OrganizationalBranding.Read.All"
+  },
+  {
+    "Id": "15ce63de-b141-4c9a-a9a5-241bf27c6aaf",
+    "UserConsentDisplayName": "Read and write organizational branding information",
+    "Value": "OrganizationalBranding.ReadWrite.All"
+  },
+  {
+    "Id": "08432d1b-5911-483c-86df-7980af5cdee0",
+    "UserConsentDisplayName": "Read organizational contacts",
+    "Value": "OrgContact.Read.All"
+  },
+  {
+    "Id": "1e9b7a7e-4d64-44ff-acf5-2e9651c1519f",
+    "UserConsentDisplayName": "Read organization-wide apps and services settings",
+    "Value": "OrgSettings-AppsAndServices.Read.All"
+  },
+  {
+    "Id": "c167b0e7-47c0-48e8-9eee-9892f58018fa",
+    "UserConsentDisplayName": "Read and write organization-wide apps and services settings",
+    "Value": "OrgSettings-AppsAndServices.ReadWrite.All"
+  },
+  {
+    "Id": "9862d930-5aec-4a98-8d4f-7277a8db9bcb",
+    "UserConsentDisplayName": "Read organization-wide dynamics customer voice settings",
+    "Value": "OrgSettings-DynamicsVoice.Read.All"
+  },
+  {
+    "Id": "4cea26fb-6967-4234-82c4-c044414743f8",
+    "UserConsentDisplayName": "Read and write organization-wide Dynamics customer voice settings",
+    "Value": "OrgSettings-DynamicsVoice.ReadWrite.All"
+  },
+  {
+    "Id": "210051a0-1ffc-435c-ae76-02d226d05752",
+    "UserConsentDisplayName": "Read organization-wide Microsoft Forms settings",
+    "Value": "OrgSettings-Forms.Read.All"
+  },
+  {
+    "Id": "346c19ff-3fb2-4e81-87a0-bac9e33990c1",
+    "UserConsentDisplayName": "Read and write organization-wide Microsoft Forms settings",
+    "Value": "OrgSettings-Forms.ReadWrite.All"
+  },
+  {
+    "Id": "8cbdb9f6-9c2e-451a-814d-ec606e5d0212",
+    "UserConsentDisplayName": "Read organization-wide Microsoft 365 apps installation settings",
+    "Value": "OrgSettings-Microsoft365Install.Read.All"
+  },
+  {
+    "Id": "1ff35e91-19eb-42d8-aa2d-cc9891127ae5",
+    "UserConsentDisplayName": "Read and write organization-wide Microsoft 365 apps installation settings",
+    "Value": "OrgSettings-Microsoft365Install.ReadWrite.All"
+  },
+  {
+    "Id": "7ff96f41-f022-45ba-acd8-ef3f03063d6b",
+    "UserConsentDisplayName": "Read organization-wide Microsoft To Do settings",
+    "Value": "OrgSettings-Todo.Read.All"
+  },
+  {
+    "Id": "087502c2-5263-433e-abe3-8f77231a0627",
+    "UserConsentDisplayName": "Read and write organization-wide Microsoft To Do settings",
+    "Value": "OrgSettings-Todo.ReadWrite.All"
+  },
+  {
+    "Id": "8804798e-5934-4e30-8ce3-ef88257cecd4",
+    "UserConsentDisplayName": "Allows the app to read billing data you have access to.",
+    "Value": "PartnerBilling.Read.All"
+  },
+  {
+    "Id": "5567b981-0bf1-4796-9038-0648b46e116d",
+    "UserConsentDisplayName": "Read security alerts of customer with CSP relationship",
+    "Value": "PartnerSecurity.Read.All"
+  },
+  {
+    "Id": "0cd2c1f6-94a1-4075-ab8c-0b1aff2e1ad5",
+    "UserConsentDisplayName": "Read security alerts and update status of security alerts of customer with CSP relationship",
+    "Value": "PartnerSecurity.ReadWrite.All"
+  },
+  {
+    "Id": "d88fd3fb-53d3-4c1c-8c39-787fcac2ed7a",
+    "UserConsentDisplayName": "Read pending external user profiles",
+    "Value": "PendingExternalUserProfile.Read.All"
+  },
+  {
+    "Id": "93a1fb28-c908-4826-904e-0c74ad352b73",
+    "UserConsentDisplayName": "Read and write pending external user profiles",
+    "Value": "PendingExternalUserProfile.ReadWrite.All"
+  },
+  {
+    "Id": "ba47897c-39ec-4d83-8086-ee8256fa737d",
+    "UserConsentDisplayName": "Read your relevant people list",
+    "Value": "People.Read"
+  },
+  {
+    "Id": "b89f9189-71a5-4e70-b041-9887f0bc7e4a",
+    "UserConsentDisplayName": "Read all users’ relevant people lists",
+    "Value": "People.Read.All"
+  },
+  {
+    "Id": "ec762c5f-388b-4b16-8693-ac1efbc611bc",
+    "UserConsentDisplayName": "Read tenant-wide people settings",
+    "Value": "PeopleSettings.Read.All"
+  },
+  {
+    "Id": "e67e6727-c080-415e-b521-e3f35d5248e9",
+    "UserConsentDisplayName": "Read and write tenant-wide people settings",
+    "Value": "PeopleSettings.ReadWrite.All"
+  },
+  {
+    "Id": "cb8f45a0-5c2e-4ea1-b803-84b870a7d7ec",
+    "UserConsentDisplayName": "Read all company places",
+    "Value": "Place.Read.All"
+  },
+  {
+    "Id": "4c06a06a-098a-4063-868e-5dfee3827264",
+    "UserConsentDisplayName": "Read and write organization places",
+    "Value": "Place.ReadWrite.All"
+  },
+  {
+    "Id": "4c7f93d2-6b0b-4e05-91aa-87842f0a2142",
+    "UserConsentDisplayName": "Read all workplace devices",
+    "Value": "PlaceDevice.Read.All"
+  },
+  {
+    "Id": "eafd6a71-e95a-4f8a-bb6e-fb84ab7fbd9e",
+    "UserConsentDisplayName": "Read and write all workplace devices",
+    "Value": "PlaceDevice.ReadWrite.All"
+  },
+  {
+    "Id": "572fea84-0151-49b2-9301-11cb16974376",
+    "UserConsentDisplayName": "Read your organization's policies",
+    "Value": "Policy.Read.All"
+  },
+  {
+    "Id": "633e0fce-8c58-4cfb-9495-12bbd5a24f7c",
+    "UserConsentDisplayName": "Read your organization's conditional access policies",
+    "Value": "Policy.Read.ConditionalAccess"
+  },
+  {
+    "Id": "d146432f-b803-4ed4-8d42-ba74193a6ede",
+    "UserConsentDisplayName": "Read your organization’s identity protection policy",
+    "Value": "Policy.Read.IdentityProtection"
+  },
+  {
+    "Id": "414de6ea-2d92-462f-b120-6e2a809a6d01",
+    "UserConsentDisplayName": "Read consent and permission grant policies",
+    "Value": "Policy.Read.PermissionGrant"
+  },
+  {
+    "Id": "4f5bc9c8-ea54-4772-973a-9ca119cb0409",
+    "UserConsentDisplayName": "Read and write your organization's directory access review default policy",
+    "Value": "Policy.ReadWrite.AccessReview"
+  },
+  {
+    "Id": "b27add92-efb2-4f16-84f5-8108ba77985c",
+    "UserConsentDisplayName": "Read and write your organization's application configuration policies",
+    "Value": "Policy.ReadWrite.ApplicationConfiguration"
+  },
+  {
+    "Id": "edb72de9-4252-4d03-a925-451deef99db7",
+    "UserConsentDisplayName": "Read and write your authentication flow policies",
+    "Value": "Policy.ReadWrite.AuthenticationFlows"
+  },
+  {
+    "Id": "7e823077-d88e-468f-a337-e18f1f0e6c7c",
+    "UserConsentDisplayName": "Read and write your authentication method policies ",
+    "Value": "Policy.ReadWrite.AuthenticationMethod"
+  },
+  {
+    "Id": "edd3c878-b384-41fd-95ad-e7407dd775be",
+    "UserConsentDisplayName": "Read and write your organization's authorization policy",
+    "Value": "Policy.ReadWrite.Authorization"
+  },
+  {
+    "Id": "ad902697-1014-4ef5-81ef-2b4301988e8c",
+    "UserConsentDisplayName": "Read and write your organization's conditional access policies",
+    "Value": "Policy.ReadWrite.ConditionalAccess"
+  },
+  {
+    "Id": "4d135e65-66b8-41a8-9f8b-081452c91774",
+    "UserConsentDisplayName": "Read and write consent request policy",
+    "Value": "Policy.ReadWrite.ConsentRequest"
+  },
+  {
+    "Id": "014b43d0-6ed4-4fc6-84dc-4b6f7bae7d85",
+    "UserConsentDisplayName": "Read and write your organization's cross tenant access policies",
+    "Value": "Policy.ReadWrite.CrossTenantAccess"
+  },
+  {
+    "Id": "40b534c3-9552-4550-901b-23879c90bcf9",
+    "UserConsentDisplayName": "Read and write your organization's device configuration policies",
+    "Value": "Policy.ReadWrite.DeviceConfiguration"
+  },
+  {
+    "Id": "b5219784-1215-45b5-b3f1-88fe1081f9c0",
+    "UserConsentDisplayName": "Read and write your organization's external identities policy",
+    "Value": "Policy.ReadWrite.ExternalIdentities"
+  },
+  {
+    "Id": "92a38652-f13b-4875-bc77-6e1dbb63e1b2",
+    "UserConsentDisplayName": "Read and write your organization's feature rollout policies",
+    "Value": "Policy.ReadWrite.FeatureRollout"
+  },
+  {
+    "Id": "be1be369-4540-4ac9-8928-79de99f70d8f",
+    "UserConsentDisplayName": "Read and write your organization's federated token validation policy",
+    "Value": "Policy.ReadWrite.FedTokenValidation"
+  },
+  {
+    "Id": "7256e131-3efb-4323-9854-cf41c6021770",
+    "UserConsentDisplayName": "Read and write your organization’s identity protection policy.",
+    "Value": "Policy.ReadWrite.IdentityProtection"
+  },
+  {
+    "Id": "a8ead177-1889-4546-9387-f25e658e2a79",
+    "UserConsentDisplayName": "Read and write your organization's mobility management policies",
+    "Value": "Policy.ReadWrite.MobilityManagement"
+  },
+  {
+    "Id": "2672f8bb-fd5e-42e0-85e1-ec764dd2614e",
+    "UserConsentDisplayName": "Manage consent and permission grant policies",
+    "Value": "Policy.ReadWrite.PermissionGrant"
+  },
+  {
+    "Id": "0b2a744c-2abf-4f1e-ad7e-17a087e2be99",
+    "UserConsentDisplayName": "Read and write your organization's security defaults policy",
+    "Value": "Policy.ReadWrite.SecurityDefaults"
+  },
+  {
+    "Id": "cefba324-1a70-4a6e-9c1d-fd670b7ae392",
+    "UserConsentDisplayName": "Read and write trust framework policies",
+    "Value": "Policy.ReadWrite.TrustFramework"
+  },
+  {
+    "Id": "d7b7f2d9-0f45-4ea1-9d42-e50810c06991",
+    "UserConsentDisplayName": "Read and write access to your mail.",
+    "Value": "POP.AccessAsUser.All"
+  },
+  {
+    "Id": "76bc735e-aecd-4a1d-8b4c-2b915deabb79",
+    "UserConsentDisplayName": "Read your presence information",
+    "Value": "Presence.Read"
+  },
+  {
+    "Id": "9c7a330d-35b3-4aa1-963d-cb2b9f927841",
+    "UserConsentDisplayName": "Read presence information of all users in your organization",
+    "Value": "Presence.Read.All"
+  },
+  {
+    "Id": "8d3c54a7-cf58-4773-bf81-c0cd6ad522bb",
+    "UserConsentDisplayName": "Read and write your presence information",
+    "Value": "Presence.ReadWrite"
+  },
+  {
+    "Id": "d69c2d6d-4f72-4f99-a6b9-663e32f8cf68",
+    "UserConsentDisplayName": "Read print connectors",
+    "Value": "PrintConnector.Read.All"
+  },
+  {
+    "Id": "79ef9967-7d59-4213-9c64-4b10687637d8",
+    "UserConsentDisplayName": "Read and write print connectors",
+    "Value": "PrintConnector.ReadWrite.All"
+  },
+  {
+    "Id": "90c30bed-6fd1-4279-bf39-714069619721",
+    "UserConsentDisplayName": "Register printers  ",
+    "Value": "Printer.Create"
+  },
+  {
+    "Id": "93dae4bd-43a1-4a23-9a1a-92957e1d9121",
+    "UserConsentDisplayName": "Register, read, update, and unregister printers",
+    "Value": "Printer.FullControl.All"
+  },
+  {
+    "Id": "3a736c8a-018e-460a-b60c-863b2683e8bf",
+    "UserConsentDisplayName": "Read printers",
+    "Value": "Printer.Read.All"
+  },
+  {
+    "Id": "89f66824-725f-4b8f-928e-e1c5258dc565",
+    "UserConsentDisplayName": "Read and update printers",
+    "Value": "Printer.ReadWrite.All"
+  },
+  {
+    "Id": "ed11134d-2f3f-440d-a2e1-411efada2502",
+    "UserConsentDisplayName": "Read printer shares",
+    "Value": "PrinterShare.Read.All"
+  },
+  {
+    "Id": "5fa075e9-b951-4165-947b-c63396ff0a37",
+    "UserConsentDisplayName": "Read basic information about printer shares",
+    "Value": "PrinterShare.ReadBasic.All"
+  },
+  {
+    "Id": "06ceea37-85e2-40d7-bec3-91337a46038f",
+    "UserConsentDisplayName": "Read and update printer shares",
+    "Value": "PrinterShare.ReadWrite.All"
+  },
+  {
+    "Id": "21f0d9c0-9f13-48b3-94e0-b6b231c7d320",
+    "UserConsentDisplayName": "Create your print jobs",
+    "Value": "PrintJob.Create"
+  },
+  {
+    "Id": "248f5528-65c0-4c88-8326-876c7236df5e",
+    "UserConsentDisplayName": "Read your print jobs",
+    "Value": "PrintJob.Read"
+  },
+  {
+    "Id": "afdd6933-a0d8-40f7-bd1a-b5d778e8624b",
+    "UserConsentDisplayName": "Read print jobs",
+    "Value": "PrintJob.Read.All"
+  },
+  {
+    "Id": "6a71a747-280f-4670-9ca0-a9cbf882b274",
+    "UserConsentDisplayName": "Read basic information of your print jobs",
+    "Value": "PrintJob.ReadBasic"
+  },
+  {
+    "Id": "04ce8d60-72ce-4867-85cf-6d82f36922f3",
+    "UserConsentDisplayName": "Read basic information of print jobs",
+    "Value": "PrintJob.ReadBasic.All"
+  },
+  {
+    "Id": "b81dd597-8abb-4b3f-a07a-820b0316ed04",
+    "UserConsentDisplayName": "Read and update your print jobs",
+    "Value": "PrintJob.ReadWrite"
+  },
+  {
+    "Id": "036b9544-e8c5-46ef-900a-0646cc42b271",
+    "UserConsentDisplayName": "Read and update print jobs",
+    "Value": "PrintJob.ReadWrite.All"
+  },
+  {
+    "Id": "6f2d22f2-1cb6-412c-a17c-3336817eaa82",
+    "UserConsentDisplayName": "Read and write basic information of your print jobs",
+    "Value": "PrintJob.ReadWriteBasic"
+  },
+  {
+    "Id": "3a0db2f6-0d2a-4c19-971b-49109b19ad3d",
+    "UserConsentDisplayName": "Read and write basic information of print jobs",
+    "Value": "PrintJob.ReadWriteBasic.All"
+  },
+  {
+    "Id": "490f32fd-d90f-4dd7-a601-ff6cdc1a3f6c",
+    "UserConsentDisplayName": "Read tenant-wide print settings",
+    "Value": "PrintSettings.Read.All"
+  },
+  {
+    "Id": "9ccc526a-c51c-4e5c-a1fd-74726ef50b8f",
+    "UserConsentDisplayName": "Read and write tenant-wide print settings",
+    "Value": "PrintSettings.ReadWrite.All"
+  },
+  {
+    "Id": "b3a539c9-59cb-4ad5-825a-041ddbdc2bdb",
+    "UserConsentDisplayName": "Read privileged access to Azure AD",
+    "Value": "PrivilegedAccess.Read.AzureAD"
+  },
+  {
+    "Id": "d329c81c-20ad-4772-abf9-3f6fdb7e5988",
+    "UserConsentDisplayName": "Read privileged access to Azure AD groups",
+    "Value": "PrivilegedAccess.Read.AzureADGroup"
+  },
+  {
+    "Id": "1d89d70c-dcac-4248-b214-903c457af83a",
+    "UserConsentDisplayName": "Read privileged access to your Azure resources",
+    "Value": "PrivilegedAccess.Read.AzureResources"
+  },
+  {
+    "Id": "3c3c74f5-cdaa-4a97-b7e0-4e788bfcfb37",
+    "UserConsentDisplayName": "Read and write privileged access to Azure AD",
+    "Value": "PrivilegedAccess.ReadWrite.AzureAD"
+  },
+  {
+    "Id": "32531c59-1f32-461f-b8df-6f8a3b89f73b",
+    "UserConsentDisplayName": "Read and write privileged access to Azure AD groups",
+    "Value": "PrivilegedAccess.ReadWrite.AzureADGroup"
+  },
+  {
+    "Id": "a84a9652-ffd3-496e-a991-22ba5529156a",
+    "UserConsentDisplayName": "Read and write privileged access to Azure resources",
+    "Value": "PrivilegedAccess.ReadWrite.AzureResources"
+  },
+  {
+    "Id": "02a32cc4-7ab5-4b58-879a-0586e0f7c495",
+    "UserConsentDisplayName": "Read assignment schedules for access to Azure AD groups",
+    "Value": "PrivilegedAssignmentSchedule.Read.AzureADGroup"
+  },
+  {
+    "Id": "06dbc45d-6708-4ef0-a797-f797ee68bf4b",
+    "UserConsentDisplayName": "Read, create, and delete assignment schedules for access to Azure AD groups",
+    "Value": "PrivilegedAssignmentSchedule.ReadWrite.AzureADGroup"
+  },
+  {
+    "Id": "8f44f93d-ecef-46ae-a9bf-338508d44d6b",
+    "UserConsentDisplayName": "Read eligibility schedules for access to Azure AD groups",
+    "Value": "PrivilegedEligibilitySchedule.Read.AzureADGroup"
+  },
+  {
+    "Id": "ba974594-d163-484e-ba39-c330d5897667",
+    "UserConsentDisplayName": "Read, create, and delete eligibility schedules for access to Azure AD groups",
+    "Value": "PrivilegedEligibilitySchedule.ReadWrite.AzureADGroup"
+  },
+  {
+    "Id": "14dad69e-099b-42c9-810b-d002981feec1",
+    "UserConsentDisplayName": "View your basic profile",
+    "Value": "profile"
+  },
+  {
+    "Id": "469cd065-729e-4dee-b1fa-d92e0fab6310",
+    "UserConsentDisplayName": "Read profile photo of a user or group",
+    "Value": "ProfilePhoto.Read.All"
+  },
+  {
+    "Id": "f5b24df7-511e-48bb-ae88-643f023b55e1",
+    "UserConsentDisplayName": "Read and write profile photo of a user or group",
+    "Value": "ProfilePhoto.ReadWrite.All"
+  },
+  {
+    "Id": "c492a2e1-2f8f-4caa-b076-99bbf6e40fe4",
+    "UserConsentDisplayName": "Read programs that you can access",
+    "Value": "ProgramControl.Read.All"
+  },
+  {
+    "Id": "50fd364f-9d93-4ae1-b170-300e87cccf84",
+    "UserConsentDisplayName": "Manage programs that you can access",
+    "Value": "ProgramControl.ReadWrite.All"
+  },
+  {
+    "Id": "04a4b2a2-3f26-4fc8-87ee-9c46e68db175",
+    "UserConsentDisplayName": "Read certificate based authentication configurations",
+    "Value": "PublicKeyInfrastructure.Read.All"
+  },
+  {
+    "Id": "3591b7f3-dba8-4bad-b667-7a64bd4f2b83",
+    "UserConsentDisplayName": "Read and write certificate based authentication configurations",
+    "Value": "PublicKeyInfrastructure.ReadWrite.All"
+  },
+  {
+    "Id": "f73fa04f-b9a5-4df9-8843-993ce928925e",
+    "UserConsentDisplayName": "Read all Questions and Answers that you can access.",
+    "Value": "QnA.Read.All"
+  },
+  {
+    "Id": "07f995eb-fc67-4522-ad66-2b8ca8ea3efd",
+    "UserConsentDisplayName": "Read Records Management configuration, labels, and policies",
+    "Value": "RecordsManagement.Read.All"
+  },
+  {
+    "Id": "f2833d75-a4e6-40ab-86d4-6dfe73c97605",
+    "UserConsentDisplayName": "Read and write Records Management configuration, labels, and policies",
+    "Value": "RecordsManagement.ReadWrite.All"
+  },
+  {
+    "Id": "02e97553-ed7b-43d0-ab3c-f8bace0d040c",
+    "UserConsentDisplayName": "Read all usage reports",
+    "Value": "Reports.Read.All"
+  },
+  {
+    "Id": "84fac5f4-33a9-4100-aa38-a20c6d29e5e7",
+    "UserConsentDisplayName": "Read admin report settings",
+    "Value": "ReportSettings.Read.All"
+  },
+  {
+    "Id": "b955410e-7715-4a88-a940-dfd551018df3",
+    "UserConsentDisplayName": "Read and write admin report settings",
+    "Value": "ReportSettings.ReadWrite.All"
+  },
+  {
+    "Id": "f1d91a8f-88e7-4774-8401-b668d5bca0c5",
+    "UserConsentDisplayName": "Read resource specific permissions granted on your user account",
+    "Value": "ResourceSpecificPermissionGrant.ReadForUser"
+  },
+  {
+    "Id": "344a729c-0285-42c6-9014-f12b9b8d6129",
+    "UserConsentDisplayName": "Read all active role assignments for your company's directory",
+    "Value": "RoleAssignmentSchedule.Read.Directory"
+  },
+  {
+    "Id": "8c026be3-8e26-4774-9372-8d5d6f21daff",
+    "UserConsentDisplayName": "Read, update, and delete all active role assignments for your company's directory",
+    "Value": "RoleAssignmentSchedule.ReadWrite.Directory"
+  },
+  {
+    "Id": "eb0788c2-6d4e-4658-8c9e-c0fb8053f03d",
+    "UserConsentDisplayName": "Read all eligible role assignments for your company's directory",
+    "Value": "RoleEligibilitySchedule.Read.Directory"
+  },
+  {
+    "Id": "62ade113-f8e0-4bf9-a6ba-5acb31db32fd",
+    "UserConsentDisplayName": "Read, update, and delete  all eligible role assignments for your company's directory",
+    "Value": "RoleEligibilitySchedule.ReadWrite.Directory"
+  },
+  {
+    "Id": "48fec646-b2ba-4019-8681-8eb31435aded",
+    "UserConsentDisplayName": "Read role management data for all RBAC providers",
+    "Value": "RoleManagement.Read.All"
+  },
+  {
+    "Id": "9619b88a-8a25-48a7-9571-d23be0337a79",
+    "UserConsentDisplayName": "Read Cloud PC RBAC settings",
+    "Value": "RoleManagement.Read.CloudPC"
+  },
+  {
+    "Id": "741c54c3-0c1e-44a1-818b-3f97ab4e8c83",
+    "UserConsentDisplayName": "Read directory RBAC settings",
+    "Value": "RoleManagement.Read.Directory"
+  },
+  {
+    "Id": "3bc15058-7858-4141-b24f-ae43b4e80b52",
+    "UserConsentDisplayName": "Read Exchange Online RBAC configuration",
+    "Value": "RoleManagement.Read.Exchange"
+  },
+  {
+    "Id": "501d06f8-07b8-4f18-b5c6-c191a4af7a82",
+    "UserConsentDisplayName": "Read and write Cloud PC RBAC settings",
+    "Value": "RoleManagement.ReadWrite.CloudPC"
+  },
+  {
+    "Id": "d01b97e9-cbc0-49fe-810a-750afd5527a3",
+    "UserConsentDisplayName": "Read and write directory RBAC settings",
+    "Value": "RoleManagement.ReadWrite.Directory"
+  },
+  {
+    "Id": "c1499fe0-52b1-4b22-bed2-7a244e0e879f",
+    "UserConsentDisplayName": "Read and write Exchange Online RBAC configuration",
+    "Value": "RoleManagement.ReadWrite.Exchange"
+  },
+  {
+    "Id": "cce71173-f76d-446e-97ff-efb2d82e11b1",
+    "UserConsentDisplayName": "Read all alert data for your company's directory",
+    "Value": "RoleManagementAlert.Read.Directory"
+  },
+  {
+    "Id": "435644c6-a5b1-40bf-8f52-fe8e5b53e19c",
+    "UserConsentDisplayName": "Read all alert data, configure alerts, and take actions on all alerts for your company's directory",
+    "Value": "RoleManagementAlert.ReadWrite.Directory"
+  },
+  {
+    "Id": "7e26fdff-9cb1-4e56-bede-211fe0e420e8",
+    "UserConsentDisplayName": "Read all policies in PIM for Groups",
+    "Value": "RoleManagementPolicy.Read.AzureADGroup"
+  },
+  {
+    "Id": "3de2cdbe-0ff5-47d5-bdee-7f45b4749ead",
+    "UserConsentDisplayName": "Read all policies for privileged role assignments of your company's directory",
+    "Value": "RoleManagementPolicy.Read.Directory"
+  },
+  {
+    "Id": "0da165c7-3f15-4236-b733-c0b0f6abe41d",
+    "UserConsentDisplayName": "Read, update, and delete all policies in PIM for Groups",
+    "Value": "RoleManagementPolicy.ReadWrite.AzureADGroup"
+  },
+  {
+    "Id": "1ff1be21-34eb-448c-9ac9-ce1f506b2a68",
+    "UserConsentDisplayName": "Read, update, and delete all policies for privileged role assignments of your company's directory",
+    "Value": "RoleManagementPolicy.ReadWrite.Directory"
+  },
+  {
+    "Id": "fccf6dd8-5706-49fa-811f-69e2e1b585d0",
+    "UserConsentDisplayName": "Read your schedule items",
+    "Value": "Schedule.Read.All"
+  },
+  {
+    "Id": "63f27281-c9d9-4f29-94dd-6942f7f1feb0",
+    "UserConsentDisplayName": "Read and write your schedule items",
+    "Value": "Schedule.ReadWrite.All"
+  },
+  {
+    "Id": "07919803-6073-4cd8-bc55-28077db0ee10",
+    "UserConsentDisplayName": "Read/Write your schedule permissions for a role.",
+    "Value": "SchedulePermissions.ReadWrite.All"
+  },
+  {
+    "Id": "7d307522-aa38-4cd0-bd60-90c6f0ac50bd",
+    "UserConsentDisplayName": "Read your organization's search configuration",
+    "Value": "SearchConfiguration.Read.All"
+  },
+  {
+    "Id": "b1a7d408-cab0-47d2-a2a5-a74a3733600d",
+    "UserConsentDisplayName": "Read and write your organization's search configuration",
+    "Value": "SearchConfiguration.ReadWrite.All"
+  },
+  {
+    "Id": "1638cddf-07a4-4de2-8645-69c96cacad73",
+    "UserConsentDisplayName": "Read your organization's security actions",
+    "Value": "SecurityActions.Read.All"
+  },
+  {
+    "Id": "dc38509c-b87d-4da0-bd92-6bec988bac4a",
+    "UserConsentDisplayName": "Read and update your organization's security actions",
+    "Value": "SecurityActions.ReadWrite.All"
+  },
+  {
+    "Id": "bc257fb8-46b4-4b15-8713-01e91bfbe4ea",
+    "UserConsentDisplayName": "Read all alerts",
+    "Value": "SecurityAlert.Read.All"
+  },
+  {
+    "Id": "471f2a7f-2a42-4d45-a2bf-594d0838070d",
+    "UserConsentDisplayName": "Read and write all alerts",
+    "Value": "SecurityAlert.ReadWrite.All"
+  },
+  {
+    "Id": "53e6783e-b127-4a35-ab3a-6a52d80a9077",
+    "UserConsentDisplayName": "Read metadata and detection details for emails in your organization",
+    "Value": "SecurityAnalyzedMessage.Read.All"
+  },
+  {
+    "Id": "48eb8c83-6e58-46e7-a6d3-8805822f5940",
+    "UserConsentDisplayName": "Read metadata, detection details, and execute remediation actions on emails in your organization",
+    "Value": "SecurityAnalyzedMessage.ReadWrite.All"
+  },
+  {
+    "Id": "64733abd-851e-478a-bffb-e47a14b18235",
+    "UserConsentDisplayName": "Read your organization’s security events",
+    "Value": "SecurityEvents.Read.All"
+  },
+  {
+    "Id": "6aedf524-7e1c-45a7-bd76-ded8cab8d0fc",
+    "UserConsentDisplayName": "Read and update your organization’s security events",
+    "Value": "SecurityEvents.ReadWrite.All"
+  },
+  {
+    "Id": "a0d0da43-a6df-4416-b63d-99c79991aae8",
+    "UserConsentDisplayName": "Read identity security health issues",
+    "Value": "SecurityIdentitiesHealth.Read.All"
+  },
+  {
+    "Id": "53e51eec-2d9b-4990-97f3-c9aa5d5652c3",
+    "UserConsentDisplayName": "Read and write identity security health issues",
+    "Value": "SecurityIdentitiesHealth.ReadWrite.All"
+  },
+  {
+    "Id": "2c221239-7c5c-4b30-9355-d84663bfcd96",
+    "UserConsentDisplayName": "Read identity security sensors",
+    "Value": "SecurityIdentitiesSensors.Read.All"
+  },
+  {
+    "Id": "087c3ad9-c2ca-4b82-9885-d5e25ce9e183",
+    "UserConsentDisplayName": "Read and write identity security sensors",
+    "Value": "SecurityIdentitiesSensors.ReadWrite.All"
+  },
+  {
+    "Id": "b9abcc4f-94fc-4457-9141-d20ce80ec952",
+    "UserConsentDisplayName": "Read security incidents",
+    "Value": "SecurityIncident.Read.All"
+  },
+  {
+    "Id": "128ca929-1a19-45e6-a3b8-435ec44a36ba",
+    "UserConsentDisplayName": "Read and write to security incidents",
+    "Value": "SecurityIncident.ReadWrite.All"
+  },
+  {
+    "Id": "1fe7aa48-9373-4a47-8df3-168335e0f4c9",
+    "UserConsentDisplayName": "Read all Exchange service activity",
+    "Value": "ServiceActivity-Exchange.Read.All"
+  },
+  {
+    "Id": "d74c75b1-d5a9-479d-902d-92f8f99182c1",
+    "UserConsentDisplayName": "Read all Microsoft 365 Web service activity",
+    "Value": "ServiceActivity-Microsoft365Web.Read.All"
+  },
+  {
+    "Id": "347e3c16-30f3-4ac7-9b52-fc3c053de9c9",
+    "UserConsentDisplayName": "Read all One Drive service activity",
+    "Value": "ServiceActivity-OneDrive.Read.All"
+  },
+  {
+    "Id": "404d76f0-e10e-460a-92be-ef19600c54d1",
+    "UserConsentDisplayName": "Read all Teams service activity",
+    "Value": "ServiceActivity-Teams.Read.All"
+  },
+  {
+    "Id": "55896846-df78-47a7-aa94-8d3d4442ca7f",
+    "UserConsentDisplayName": "Read service health",
+    "Value": "ServiceHealth.Read.All"
+  },
+  {
+    "Id": "eda39fa6-f8cf-4c3c-a909-432c683e4c9b",
+    "UserConsentDisplayName": "Read service messages",
+    "Value": "ServiceMessage.Read.All"
+  },
+  {
+    "Id": "636e1b0b-1cc2-4b1c-9aa9-4eeed9b9761b",
+    "UserConsentDisplayName": "Update your user status on service announcement messages",
+    "Value": "ServiceMessageViewpoint.Write"
+  },
+  {
+    "Id": "9f9ce928-e038-4e3b-8faf-7b59049a8ddc",
+    "UserConsentDisplayName": "Read service principal endpoints",
+    "Value": "ServicePrincipalEndpoint.Read.All"
+  },
+  {
+    "Id": "7297d82c-9546-4aed-91df-3d4f0a9b3ff0",
+    "UserConsentDisplayName": "Read and update service principal endpoints",
+    "Value": "ServicePrincipalEndpoint.ReadWrite.All"
+  },
+  {
+    "Id": "2ef70e10-5bfd-4ede-a5f6-67720500b258",
+    "UserConsentDisplayName": "Read SharePoint and OneDrive tenant settings",
+    "Value": "SharePointTenantSettings.Read.All"
+  },
+  {
+    "Id": "aa07f155-3612-49b8-a147-6c590df35536",
+    "UserConsentDisplayName": "Read and change SharePoint and OneDrive tenant settings",
+    "Value": "SharePointTenantSettings.ReadWrite.All"
+  },
+  {
+    "Id": "50f66e47-eb56-45b7-aaa2-75057d9afe08",
+    "UserConsentDisplayName": "Read your short notes",
+    "Value": "ShortNotes.Read"
+  },
+  {
+    "Id": "328438b7-4c01-4c07-a840-e625a749bb89",
+    "UserConsentDisplayName": "Read, create, edit, and delete your short notes",
+    "Value": "ShortNotes.ReadWrite"
+  },
+  {
+    "Id": "5a54b8b3-347c-476d-8f8e-42d5c7424d29",
+    "UserConsentDisplayName": "Have full control of all your site collections",
+    "Value": "Sites.FullControl.All"
+  },
+  {
+    "Id": "65e50fdc-43b7-4915-933e-e8138f11f40a",
+    "UserConsentDisplayName": "Create, edit, and delete items and lists in all your site collections",
+    "Value": "Sites.Manage.All"
+  },
+  {
+    "Id": "205e70e5-aba6-4c52-a976-6d2d46c48043",
+    "UserConsentDisplayName": "Read items in all site collections",
+    "Value": "Sites.Read.All"
+  },
+  {
+    "Id": "89fe6a52-be36-487e-b7d8-d061c450a026",
+    "UserConsentDisplayName": "Edit or delete items in all site collections",
+    "Value": "Sites.ReadWrite.All"
+  },
+  {
+    "Id": "f89c84ef-20d0-4b54-87e9-02e856d66d53",
+    "UserConsentDisplayName": "Access selected Sites, on behalf of the signed-in user",
+    "Value": "Sites.Selected"
+  },
+  {
+    "Id": "258f6531-6087-4cc4-bb90-092c5fb3ed3f",
+    "UserConsentDisplayName": "Access to sending emails from your mailbox.",
+    "Value": "SMTP.Send"
+  },
+  {
+    "Id": "9b4aa4b1-aaf3-41b7-b743-698b27e77ff6",
+    "UserConsentDisplayName": "Read SPIFFE trust domains and child resources",
+    "Value": "SpiffeTrustDomain.Read.All"
+  },
+  {
+    "Id": "8ba47079-8c47-4bfe-b2ce-13f28ef37247",
+    "UserConsentDisplayName": "Read and write SPIFFE trust domains and child resources",
+    "Value": "SpiffeTrustDomain.ReadWrite.All"
+  },
+  {
+    "Id": "9c3af74c-fd0f-4db4-b17a-71939e2a9d77",
+    "UserConsentDisplayName": "Read data subject requests",
+    "Value": "SubjectRightsRequest.Read.All"
+  },
+  {
+    "Id": "2b8fcc74-bce1-4ae3-a0e8-60c53739299d",
+    "UserConsentDisplayName": "Read and write data subject requests",
+    "Value": "SubjectRightsRequest.ReadWrite.All"
+  },
+  {
+    "Id": "5f88184c-80bb-4d52-9ff2-757288b2e9b7",
+    "UserConsentDisplayName": "Read all webhook subscriptions ",
+    "Value": "Subscription.Read.All"
+  },
+  {
+    "Id": "7aa02aeb-824f-4fbe-a3f7-611f751f5b55",
+    "UserConsentDisplayName": "Read all Azure AD synchronization data",
+    "Value": "Synchronization.Read.All"
+  },
+  {
+    "Id": "7bb27fa3-ea8f-4d67-a916-87715b6188bd",
+    "UserConsentDisplayName": "Read and write all Azure AD synchronization data",
+    "Value": "Synchronization.ReadWrite.All"
+  },
+  {
+    "Id": "1a2e7420-4e92-4d2b-94cb-fb2952e9ddf7",
+    "UserConsentDisplayName": "Bulk upload user data to identity synchronization service",
+    "Value": "SynchronizationData-User.Upload"
+  },
+  {
+    "Id": "f45671fb-e0fe-4b4b-be20-3d3ce43f1bcb",
+    "UserConsentDisplayName": "Read your tasks and task lists",
+    "Value": "Tasks.Read"
+  },
+  {
+    "Id": "88d21fd4-8e5a-4c32-b5e2-4a1c95f34f72",
+    "UserConsentDisplayName": "Read your and shared tasks",
+    "Value": "Tasks.Read.Shared"
+  },
+  {
+    "Id": "2219042f-cab5-40cc-b0d2-16b1540b4c5f",
+    "UserConsentDisplayName": "Create, read, update, and delete your tasks and task lists",
+    "Value": "Tasks.ReadWrite"
+  },
+  {
+    "Id": "c5ddf11b-c114-4886-8558-8a4e557cd52b",
+    "UserConsentDisplayName": "Read and write to your and shared tasks",
+    "Value": "Tasks.ReadWrite.Shared"
+  },
+  {
+    "Id": "7825d5d6-6049-4ce7-bdf6-3b8d53f4bcd0",
+    "UserConsentDisplayName": "Create teams",
+    "Value": "Team.Create"
+  },
+  {
+    "Id": "485be79e-c497-4b35-9400-0e3fa7f2a5d4",
+    "UserConsentDisplayName": "Read the names and descriptions of teams",
+    "Value": "Team.ReadBasic.All"
+  },
+  {
+    "Id": "2497278c-d82d-46a2-b1ce-39d4cdde5570",
+    "UserConsentDisplayName": "Read the members of teams",
+    "Value": "TeamMember.Read.All"
+  },
+  {
+    "Id": "4a06efd2-f825-4e34-813e-82a57b03d1ee",
+    "UserConsentDisplayName": "Add and remove members from teams and channels",
+    "Value": "TeamMember.ReadWrite.All"
+  },
+  {
+    "Id": "2104a4db-3a2f-4ea0-9dba-143d457dc666",
+    "UserConsentDisplayName": "Add and remove members with non-owner role for all teams",
+    "Value": "TeamMember.ReadWriteNonOwnerRole.All"
+  },
+  {
+    "Id": "0e755559-83fb-4b44-91d0-4cc721b9323e",
+    "UserConsentDisplayName": "Read your teamwork activity feed",
+    "Value": "TeamsActivity.Read"
+  },
+  {
+    "Id": "7ab1d787-bae7-4d5d-8db6-37ea32df9186",
+    "UserConsentDisplayName": "Send a teamwork activity",
+    "Value": "TeamsActivity.Send"
+  },
+  {
+    "Id": "bf3fbf03-f35f-4e93-963e-47e4d874c37a",
+    "UserConsentDisplayName": "Read installed Teams apps in chats",
+    "Value": "TeamsAppInstallation.ReadForChat"
+  },
+  {
+    "Id": "5248dcb1-f83b-4ec3-9f4d-a4428a961a72",
+    "UserConsentDisplayName": "Read installed Teams apps in teams",
+    "Value": "TeamsAppInstallation.ReadForTeam"
+  },
+  {
+    "Id": "c395395c-ff9a-4dba-bc1f-8372ba9dca84",
+    "UserConsentDisplayName": "Read your installed Teams apps",
+    "Value": "TeamsAppInstallation.ReadForUser"
+  },
+  {
+    "Id": "e1408a66-8f82-451b-a2f3-3c3e38f7413f",
+    "UserConsentDisplayName": "Manage installation and permission grants of Teams apps in chats",
+    "Value": "TeamsAppInstallation.ReadWriteAndConsentForChat"
+  },
+  {
+    "Id": "946349d5-2a9d-4535-abc0-7beeacaedd1d",
+    "UserConsentDisplayName": "Manage installation and permission grants of Teams apps in teams",
+    "Value": "TeamsAppInstallation.ReadWriteAndConsentForTeam"
+  },
+  {
+    "Id": "2da62c49-dfbd-40df-ba16-fef3529d391c",
+    "UserConsentDisplayName": "Manage installation and permission grants of Teams apps on your user account",
+    "Value": "TeamsAppInstallation.ReadWriteAndConsentForUser"
+  },
+  {
+    "Id": "a0e0e18b-8fb2-458f-8130-da2d7cab9c75",
+    "UserConsentDisplayName": "Allow the Teams app to manage itself and its permission grants in chats",
+    "Value": "TeamsAppInstallation.ReadWriteAndConsentSelfForChat"
+  },
+  {
+    "Id": "4a6bbf29-a0e1-4a4d-a7d1-cef17f772975",
+    "UserConsentDisplayName": "Allow the Teams app to manage itself and its permission grants in teams",
+    "Value": "TeamsAppInstallation.ReadWriteAndConsentSelfForTeam"
+  },
+  {
+    "Id": "7a349935-c54d-44ab-ab66-1b460d315be7",
+    "UserConsentDisplayName": "Allow the Teams app to manage itself and its permission grants on your user account",
+    "Value": "TeamsAppInstallation.ReadWriteAndConsentSelfForUser"
+  },
+  {
+    "Id": "aa85bf13-d771-4d5d-a9e6-bca04ce44edf",
+    "UserConsentDisplayName": "Manage installed Teams apps in chats",
+    "Value": "TeamsAppInstallation.ReadWriteForChat"
+  },
+  {
+    "Id": "2e25a044-2580-450d-8859-42eeb6e996c0",
+    "UserConsentDisplayName": "Manage installed Teams apps in teams",
+    "Value": "TeamsAppInstallation.ReadWriteForTeam"
+  },
+  {
+    "Id": "093f8818-d05f-49b8-95bc-9d2a73e9a43c",
+    "UserConsentDisplayName": "Manage your installed Teams apps",
+    "Value": "TeamsAppInstallation.ReadWriteForUser"
+  },
+  {
+    "Id": "0ce33576-30e8-43b7-99e5-62f8569a4002",
+    "UserConsentDisplayName": "Allow the Teams app to manage itself in chats",
+    "Value": "TeamsAppInstallation.ReadWriteSelfForChat"
+  },
+  {
+    "Id": "0f4595f7-64b1-4e13-81bc-11a249df07a9",
+    "UserConsentDisplayName": "Allow the Teams app to manage itself in teams",
+    "Value": "TeamsAppInstallation.ReadWriteSelfForTeam"
+  },
+  {
+    "Id": "207e0cb1-3ce7-4922-b991-5a760c346ebc",
+    "UserConsentDisplayName": "Allow the Teams app to manage itself for you",
+    "Value": "TeamsAppInstallation.ReadWriteSelfForUser"
+  },
+  {
+    "Id": "48638b3c-ad68-4383-8ac4-e6880ee6ca57",
+    "UserConsentDisplayName": "Read teams' settings",
+    "Value": "TeamSettings.Read.All"
+  },
+  {
+    "Id": "39d65650-9d3e-4223-80db-a335590d027e",
+    "UserConsentDisplayName": "Read and change teams' settings",
+    "Value": "TeamSettings.ReadWrite.All"
+  },
+  {
+    "Id": "a9ff19c2-f369-4a95-9a25-ba9d460efc8e",
+    "UserConsentDisplayName": "Create tabs in Microsoft Teams.",
+    "Value": "TeamsTab.Create"
+  },
+  {
+    "Id": "59dacb05-e88d-4c13-a684-59f1afc8cc98",
+    "UserConsentDisplayName": "Read tabs in Microsoft Teams.",
+    "Value": "TeamsTab.Read.All"
+  },
+  {
+    "Id": "b98bfd41-87c6-45cc-b104-e2de4f0dafb9",
+    "UserConsentDisplayName": "Read and write tabs in Microsoft Teams.",
+    "Value": "TeamsTab.ReadWrite.All"
+  },
+  {
+    "Id": "ee928332-e9c2-4747-b4a0-f8c164b68de6",
+    "UserConsentDisplayName": "Allow the Teams app to manage all tabs in chats",
+    "Value": "TeamsTab.ReadWriteForChat"
+  },
+  {
+    "Id": "c975dd04-a06e-4fbb-9704-62daad77bb49",
+    "UserConsentDisplayName": "Allow the app to manage all tabs in teams",
+    "Value": "TeamsTab.ReadWriteForTeam"
+  },
+  {
+    "Id": "c37c9b61-7762-4bff-a156-afc0005847a0",
+    "UserConsentDisplayName": "Allow the Teams app to manage all tabs for you",
+    "Value": "TeamsTab.ReadWriteForUser"
+  },
+  {
+    "Id": "0c219d04-3abf-47f7-912d-5cca239e90e6",
+    "UserConsentDisplayName": "Allow the Teams app to manage only its own tabs in chats",
+    "Value": "TeamsTab.ReadWriteSelfForChat"
+  },
+  {
+    "Id": "f266662f-120a-4314-b26a-99b08617c7ef",
+    "UserConsentDisplayName": "Allow the Teams app to manage only its own tabs in teams",
+    "Value": "TeamsTab.ReadWriteSelfForTeam"
+  },
+  {
+    "Id": "395dfec1-a0b9-465f-a783-8250a430cb8c",
+    "UserConsentDisplayName": "Allow the Teams app to manage only its own tabs for you",
+    "Value": "TeamsTab.ReadWriteSelfForUser"
+  },
+  {
+    "Id": "5c469ce4-dab5-4afd-b9de-14f1ba4004a7",
+    "UserConsentDisplayName": "Read Teams user configurations",
+    "Value": "TeamsUserConfiguration.Read.All"
+  },
+  {
+    "Id": "cd87405c-5792-4f15-92f7-debc0db6d1d6",
+    "UserConsentDisplayName": "Read available Teams templates",
+    "Value": "TeamTemplates.Read"
+  },
+  {
+    "Id": "594f4bb6-c083-4cf9-8aa8-213823bdf351",
+    "UserConsentDisplayName": "Read organizational teamwork settings",
+    "Value": "Teamwork.Read.All"
+  },
+  {
+    "Id": "44e060c4-bbdc-4256-a0b9-dcc0396db368",
+    "UserConsentDisplayName": "Read Teams app settings",
+    "Value": "TeamworkAppSettings.Read.All"
+  },
+  {
+    "Id": "87c556f0-2bd9-4eed-bd74-5dd8af6eaf7e",
+    "UserConsentDisplayName": "Read and write Teams app settings",
+    "Value": "TeamworkAppSettings.ReadWrite.All"
+  },
+  {
+    "Id": "b659488b-9d28-4208-b2be-1c6652b3c970",
+    "UserConsentDisplayName": "Read Teams devices",
+    "Value": "TeamworkDevice.Read.All"
+  },
+  {
+    "Id": "ddd97ecb-5c31-43db-a235-0ee20e635c40",
+    "UserConsentDisplayName": "Read and write Teams devices",
+    "Value": "TeamworkDevice.ReadWrite.All"
+  },
+  {
+    "Id": "57587d0b-8399-45be-b207-8050cec54575",
+    "UserConsentDisplayName": "Read tags in Teams",
+    "Value": "TeamworkTag.Read"
+  },
+  {
+    "Id": "539dabd7-b5b6-4117-b164-d60cd15a8671",
+    "UserConsentDisplayName": "Read and write tags in Teams",
+    "Value": "TeamworkTag.ReadWrite"
+  },
+  {
+    "Id": "b4d26916-07e0-4daf-9096-9f6d9174aa96",
+    "UserConsentDisplayName": "Read all of the possible Teams interactions between you and other users",
+    "Value": "TeamworkUserInteraction.Read.All"
+  },
+  {
+    "Id": "297f747b-0005-475b-8fef-c890f5152b38",
+    "UserConsentDisplayName": "Read term store data",
+    "Value": "TermStore.Read.All"
+  },
+  {
+    "Id": "6c37c71d-f50f-4bff-8fd3-8a41da390140",
+    "UserConsentDisplayName": "Read and write term store data",
+    "Value": "TermStore.ReadWrite.All"
+  },
+  {
+    "Id": "cac97e40-6730-457d-ad8d-4852fddab7ad",
+    "UserConsentDisplayName": "Read and write threat assessment requests",
+    "Value": "ThreatAssessment.ReadWrite.All"
+  },
+  {
+    "Id": "b152eca8-ea73-4a48-8c98-1a6742673d99",
+    "UserConsentDisplayName": "Run hunting queries",
+    "Value": "ThreatHunting.Read.All"
+  },
+  {
+    "Id": "9cc427b4-2004-41c5-aa22-757b755e9796",
+    "UserConsentDisplayName": "Read all threat indicators",
+    "Value": "ThreatIndicators.Read.All"
+  },
+  {
+    "Id": "91e7d36d-022a-490f-a748-f8e011357b42",
+    "UserConsentDisplayName": "Manage threat indicators this app creates or owns",
+    "Value": "ThreatIndicators.ReadWrite.OwnedBy"
+  },
+  {
+    "Id": "f266d9c0-ccb9-4fb8-a228-01ac0d8d6627",
+    "UserConsentDisplayName": "Read threat intelligence Information",
+    "Value": "ThreatIntelligence.Read.All"
+  },
+  {
+    "Id": "fd5353c6-26dd-449f-a565-c4e16b9fce78",
+    "UserConsentDisplayName": "Read threat submissions",
+    "Value": "ThreatSubmission.Read"
+  },
+  {
+    "Id": "7083913a-4966-44b6-9886-c5822a5fd910",
+    "UserConsentDisplayName": "Read all threat submissions",
+    "Value": "ThreatSubmission.Read.All"
+  },
+  {
+    "Id": "68a3156e-46c9-443c-b85c-921397f082b5",
+    "UserConsentDisplayName": "Read and write threat submissions",
+    "Value": "ThreatSubmission.ReadWrite"
+  },
+  {
+    "Id": "8458e264-4eb9-4922-abe9-768d58f13c7f",
+    "UserConsentDisplayName": "Read and write all threat submissions",
+    "Value": "ThreatSubmission.ReadWrite.All"
+  },
+  {
+    "Id": "059e5840-5353-4c68-b1da-666a033fc5e8",
+    "UserConsentDisplayName": "Read and write all threat submission policies",
+    "Value": "ThreatSubmissionPolicy.ReadWrite.All"
+  },
+  {
+    "Id": "79c4c76f-409a-4f98-884d-e2c09291ec26",
+    "UserConsentDisplayName": "Read topic items",
+    "Value": "Topic.Read.All"
+  },
+  {
+    "Id": "7ad34336-f5b1-44ce-8682-31d7dfcd9ab9",
+    "UserConsentDisplayName": "Read trust framework key sets",
+    "Value": "TrustFrameworkKeySet.Read.All"
+  },
+  {
+    "Id": "39244520-1e7d-4b4a-aee0-57c65826e427",
+    "UserConsentDisplayName": "Read and write trust framework key sets",
+    "Value": "TrustFrameworkKeySet.ReadWrite.All"
+  },
+  {
+    "Id": "73e75199-7c3e-41bb-9357-167164dbb415",
+    "UserConsentDisplayName": "Read unified group memberships as guest",
+    "Value": "UnifiedGroupMember.Read.AsGuest"
+  },
+  {
+    "Id": "550e695c-7511-40f4-ac79-e8fb9c82552d",
+    "UserConsentDisplayName": "Convert an external user to internal member user",
+    "Value": "User-ConvertToInternal.ReadWrite.All"
+  },
+  {
+    "Id": "ed8d2a04-0374-41f1-aefe-da8ac87ccc87",
+    "UserConsentDisplayName": "Read all users' lifecycle information",
+    "Value": "User-LifeCycleInfo.Read.All"
+  },
+  {
+    "Id": "7ee7473e-bd4b-4c9f-987c-bd58481f5fa2",
+    "UserConsentDisplayName": "Read and write all users' lifecycle information",
+    "Value": "User-LifeCycleInfo.ReadWrite.All"
+  },
+  {
+    "Id": "f92e74e7-2563-467f-9dd0-902688cb5863",
+    "UserConsentDisplayName": "Enable and disable user accounts",
+    "Value": "User.EnableDisableAccount.All"
+  },
+  {
+    "Id": "405a51b5-8d8d-430b-9842-8be4b0e9f324",
+    "UserConsentDisplayName": "Export user's data",
+    "Value": "User.Export.All"
+  },
+  {
+    "Id": "63dd7cd9-b489-4adf-a28c-ac38b9a0f962",
+    "UserConsentDisplayName": "Invite guest users to the organization",
+    "Value": "User.Invite.All"
+  },
+  {
+    "Id": "637d7bec-b31e-4deb-acc9-24275642a2c9",
+    "UserConsentDisplayName": "Manage  user identities",
+    "Value": "User.ManageIdentities.All"
+  },
+  {
+    "Id": "e1fe6dd8-ba31-4d61-89e7-88639da4683d",
+    "UserConsentDisplayName": "Sign you in and read your profile",
+    "Value": "User.Read"
+  },
+  {
+    "Id": "a154be20-db9c-4678-8ab7-66f6cc099a59",
+    "UserConsentDisplayName": "Read all users' full profiles",
+    "Value": "User.Read.All"
+  },
+  {
+    "Id": "b340eb25-3456-403f-be2f-af7a0d370277",
+    "UserConsentDisplayName": "Read all users' basic profiles",
+    "Value": "User.ReadBasic.All"
+  },
+  {
+    "Id": "b4e74841-8e56-480b-be8b-910348b18b4c",
+    "UserConsentDisplayName": "Read and update your profile",
+    "Value": "User.ReadWrite"
+  },
+  {
+    "Id": "204e0828-b5ca-4ad8-b9f3-f32a958e7cc4",
+    "UserConsentDisplayName": "Read and write all users' full profiles",
+    "Value": "User.ReadWrite.All"
+  },
+  {
+    "Id": "fc30e98b-8810-4501-81f5-c20a3196387b",
+    "UserConsentDisplayName": "Revokes all sign in sessions for a user",
+    "Value": "User.RevokeSessions.All"
+  },
+  {
+    "Id": "47607519-5fb1-47d9-99c7-da4b48f369b1",
+    "UserConsentDisplayName": "Read and write app activity to your activity feed",
+    "Value": "UserActivity.ReadWrite.CreatedByApp"
+  },
+  {
+    "Id": "1f6b61c5-2f65-4135-9c9f-31c0f8d32b52",
+    "UserConsentDisplayName": "Read your authentication methods.",
+    "Value": "UserAuthenticationMethod.Read"
+  },
+  {
+    "Id": "aec28ec7-4d02-4e8c-b864-50163aea77eb",
+    "UserConsentDisplayName": "Read all users' authentication methods",
+    "Value": "UserAuthenticationMethod.Read.All"
+  },
+  {
+    "Id": "48971fc1-70d7-4245-af77-0beb29b53ee2",
+    "UserConsentDisplayName": "Read and write your authentication methods",
+    "Value": "UserAuthenticationMethod.ReadWrite"
+  },
+  {
+    "Id": "b7887744-6746-4312-813d-72daeaee7e2d",
+    "UserConsentDisplayName": "Read and write all users' authentication methods",
+    "Value": "UserAuthenticationMethod.ReadWrite.All"
+  },
+  {
+    "Id": "26e2f3e8-b2a1-47fc-9620-89bb5b042024",
+    "UserConsentDisplayName": "Deliver and manage your notifications",
+    "Value": "UserNotification.ReadWrite.CreatedByApp"
+  },
+  {
+    "Id": "834bcc1c-762f-41b0-bb91-1cdc323ee4bf",
+    "UserConsentDisplayName": "Read your teamwork settings.",
+    "Value": "UserTeamwork.Read"
+  },
+  {
+    "Id": "367492fc-594d-4972-a9b5-0d58c622c91c",
+    "UserConsentDisplayName": "Write app activity to your timeline",
+    "Value": "UserTimelineActivity.Write.CreatedByApp"
+  },
+  {
+    "Id": "27470298-d3b8-4b9c-aad4-6334312a3eac",
+    "UserConsentDisplayName": "Read your virtual appointments ",
+    "Value": "VirtualAppointment.Read"
+  },
+  {
+    "Id": "2ccc2926-a528-4b17-b8bb-860eed29d64c",
+    "UserConsentDisplayName": "Read and write your virtual appointments",
+    "Value": "VirtualAppointment.ReadWrite"
+  },
+  {
+    "Id": "20d02fff-a0ef-49e7-a46e-019d4a6523b7",
+    "UserConsentDisplayName": "Send notification regarding virtual appointments",
+    "Value": "VirtualAppointmentNotification.Send"
+  },
+  {
+    "Id": "6b616635-ae58-433a-a918-8c45e4f304dc",
+    "UserConsentDisplayName": "Read your virtual events",
+    "Value": "VirtualEvent.Read"
+  },
+  {
+    "Id": "d38d189c-e29b-4344-8b3b-829bfa81380b",
+    "UserConsentDisplayName": "Read and write your virtual events",
+    "Value": "VirtualEvent.ReadWrite"
+  },
+  {
+    "Id": "11776c0c-6138-4db3-a668-ee621bea2555",
+    "UserConsentDisplayName": "Read and write all Windows update deployment settings",
+    "Value": "WindowsUpdates.ReadWrite.All"
+  },
+  {
+    "Id": "f1ccd5a7-6383-466a-8db8-1a656f7d06fa",
+    "UserConsentDisplayName": "Read workforce integrations",
+    "Value": "WorkforceIntegration.Read.All"
+  },
+  {
+    "Id": "08c4b377-0d23-4a8b-be2a-23c1c1d88545",
+    "UserConsentDisplayName": "Read and write workforce integrations",
+    "Value": "WorkforceIntegration.ReadWrite.All"
+  }
+]

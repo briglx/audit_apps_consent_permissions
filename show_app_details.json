@@ -1,0 +1,50 @@
+Getting the list of applications...
+Found 21 applications.
+Application: dev_blob2cloud (81ec9965-efc6-4d5c-97c8-7c61a02e8875)
+Application: github_cicd_service_principal_1 (297d6e22-8674-498b-8958-0f3b08fb887a)
+    oauth2PermissionScope: ecbeb7fd-1f0b-4833-8fa6-41d260e0b8a4 user_impersonation Access github_cicd_service_principal_1
+Application: Azure AD Domain Services Sync (b436ad6e-9fe5-4369-996e-2cfb3002f675)
+    oauth2PermissionScope: 66ace3b5-388b-4694-8cfd-c8d77c571135 user_impersonation Access Azure AD Domain Services Sync
+Application: chatcopilotcicd (950dd3bf-8fb8-4af7-8c57-db6d07e5f173)
+Application: chat_copilot_web (9fa5b7bf-6515-4b56-934f-6523465fea1c)
+    requiredResourceAccess: 00000003-0000-0000-c000-000000000000 64a6cdd6-aab1-4aaf-94b8-3cc8405e90d0 Scope
+    requiredResourceAccess: 00000003-0000-0000-c000-000000000000 e1fe6dd8-ba31-4d61-89e7-88639da4683d Scope
+    requiredResourceAccess: 872fdde2-d3ef-4c2a-8594-453d6df2571c 49312766-d42f-45fc-8331-ad03686ab94b Scope
+    adminConsent: AllPrincipals None 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  openid profile email Calendars.Read Mail.Read Mail.Send Tasks.ReadWrite User.Read offline_access None None
+Application: github_cicd_service_principal (9df61595-43f1-4fde-a7fc-f86fefc7ee98)
+    oauth2PermissionScope: ecff1b8f-1e64-4461-9e80-28872e53c241 user_impersonation Access github_cicd_service_principal
+Application: avd_start_on_connect_sp (f81ab1a4-b6ec-4dcc-b60d-5b9d066328e4)
+    oauth2PermissionScope: 4f0692a3-5a75-48ce-aa93-bac508c54441 user_impersonation Access avd_start_on_connect_sp
+Application: Image Scoring (01a80fc1-d3cc-433f-92f1-d8372c3a341f)
+    adminConsent: Principal 86c8d33b-56f5-400d-90d5-a62705c9f37f 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  offline_access openid profile None None
+    adminConsent: Principal 24ff0211-3612-4f40-9447-069ecb278169 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  offline_access openid profile None None
+    adminConsent: Principal d41ac54f-f93e-4d1a-a0c3-83eafba77f4a 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  offline_access openid profile None None
+    adminConsent: Principal 80825332-6129-45cf-a4eb-3dea453f8ce6 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  offline_access openid profile None None
+    adminConsent: Principal f9b61aed-d6ec-4672-af92-8d444401ed4d 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  offline_access openid profile None None
+    adminConsent: Principal afa3b307-3ace-452f-bf87-edab0734c130 31d5a468-852e-4aa1-8e1c-69a7f9aab6a3  offline_access openid profile None None
+Application: cfm_pipeline_service_principal (28febd3b-b568-450f-a225-6a6aaf0a43b4)
+Application: github_cicd_service_app (a7cbde40-3051-4d3c-936d-5b5acf0f41a6)
+    requiredResourceAccess: 00000003-0000-0000-c000-000000000000 09850681-111b-4a89-9bed-3f2cae46d706 Role
+    requiredResourceAccess: 00000003-0000-0000-c000-000000000000 741f803b-c850-494e-b5df-cde7c675a1ca Role
+    requiredResourceAccess: 00000003-0000-0000-c000-000000000000 19dbc75e-c2e2-444c-a770-ec69d8559fc7 Role
+Application: chatcopilotchatapp (1f6d65d2-b909-4144-a4a2-2bcc553095cd)
+Application: azure_virtual_desktop_service_principal (0c4f41d0-7095-46f4-986a-39de572d0f18)
+    oauth2PermissionScope: 40e110fe-3494-4250-80ff-3c6d6ee017c7 user_impersonation Access azure_virtual_desktop_service_principal
+Application: chat_copilot_api (872fdde2-d3ef-4c2a-8594-453d6df2571c)
+    oauth2PermissionScope: 49312766-d42f-45fc-8331-ad03686ab94b access_as_user Access Chat Copilot as a user
+Application: azure_virtual_desktop_domain_join_service_principal (f2a05b31-7b02-490d-898d-e17f41ddce76)
+    oauth2PermissionScope: c4803544-4029-4a71-bb79-0396203c9125 user_impersonation Access azure_virtual_desktop_domain_join_service_principal
+Application: avd_storage_join_sp (407365f6-7776-490d-9024-b834f507c98e)
+    oauth2PermissionScope: f4230244-2a34-4bbe-8b7e-288e318e674c user_impersonation Access avd_storage_join_sp
+Application: avd_scaling_run_as_sp (e6d03603-9e02-445b-b8da-74e80c44fe1d)
+    oauth2PermissionScope: 3aa8ecf9-b212-4502-a0ca-531627a091d2 user_impersonation Access avd_scaling_run_as_sp
+Application: mytestapp (3223c89f-12e5-4e6c-8def-edf8b222cd62)
+    requiredResourceAccess: 00000003-0000-0000-c000-000000000000 e1fe6dd8-ba31-4d61-89e7-88639da4683d Scope
+Application: avd_domain_join_sp (41c3db31-48d4-4d1f-8eee-eacbb4e87933)
+    oauth2PermissionScope: 5d2db7da-f870-49a3-b170-12dfbad71b69 user_impersonation Access avd_domain_join_sp
+Application: azure_virtual_desktop_service_principal2 (d1206daf-4692-4502-94e7-c8b3349a0d60)
+    oauth2PermissionScope: 77b8198e-e1b8-4316-892a-9e6c7ce7ac96 user_impersonation Access azure_virtual_desktop_service_principal2
+Application: github_cicd_service_principal_5 (3e33ea95-c398-43f6-947b-dcade97987c4)
+    oauth2PermissionScope: 4bd52026-fb80-477e-aa8e-6bca7392eb04 user_impersonation Access github_cicd_service_principal_5
+Application: P2P Server (68c860e7-b722-48d9-bffc-6dc0536bcfe0)
+    oauth2PermissionScope: d6ca3b18-535e-44a6-bcae-c6f9b3876ba8 user_impersonation Access P2P Server

@@ -1,0 +1,4 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#servicePrincipals('c59dbf4d-cef2-4373-bcbe-6140e6f08a9e')/appRoleAssignments",
+    "value": []
+}
